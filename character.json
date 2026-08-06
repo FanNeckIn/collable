@@ -1557,7 +1557,7 @@
         ]
     },
     {
-        "name": "El Chapulín Colorado",
+        "name": "El ChapulÃƒÆ’Ã‚Â­n Colorado",
         "origin": "Chespirito",
         "groups": [
             "Chespirito",
@@ -11994,6 +11994,310 @@
         "origin": "Donkey Kong",
         "groups": [
             "Donkey Kong",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Cetacea",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "King Slime",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Slime",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Liquid Metal Slime",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Dracky",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Great Sabrecub",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Great Sabrecat",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Tockles",
+        "origin": "Dragon Quest",
+        "groups": [
+            "Dragon Quest",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Jill",
+        "origin": "Drill Dozer",
+        "groups": [
+            "Drill Dozer",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Ninten",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Ana",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Lloyd",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Teddy",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "EVE",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Flying Man",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Paula",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Poo",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Buzz Buzz",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Ness's Father",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Mr. Saturn",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Dungeon Man",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Ramblin' Evil Mushroom",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Master Belch",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Flint",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Boney",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Duster",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Kumatora",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Salsa",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Ultimate Chimera",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Masked Man",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Claus",
+        "origin": "EarthBound",
+        "groups": [
+            "EarthBound",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Power Pro-Kun",
+        "origin": "Power Pro",
+        "groups": [
+            "Power Pro",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Mamoru Ikari",
+        "origin": "Power Pro",
+        "groups": [
+            "Power Pro",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Aoi Hayakawa",
+        "origin": "Power Pro",
+        "groups": [
+            "Power Pro",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Alexandraa Novis",
+        "origin": "Eternal Darkness: Sanity's Requiem",
+        "groups": [
+            "Eternal Darkness: Sanity's Requiem",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Tethu",
+        "origin": "Ever Oasis",
+        "groups": [
+            "Ever Oasis",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Esna",
+        "origin": "Ever Oasis",
+        "groups": [
+            "Ever Oasis",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Beetle",
+        "origin": "Excitebots: Trick Racing",
+        "groups": [
+            "Excitebots: Trick Racing",
             "Super Smash Bros Ultimate"
         ]
     }
