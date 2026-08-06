@@ -9,10 +9,10 @@ class group:
         self.characters.append(character)
         self.character_names.append(character.name)
 class character:
-    def __init__(self, lst:list) -> None:
-        self.name = lst[0]
-        self.groups = lst[1:]
-        self.main_group = self.groups[0]
+    def __init__(self, dicty:dict) -> None:
+        self.name = dicty["name"]
+        self.groups = dicty["groups"]
+        self.origin = dicty["origin"]
 class world:
     def __init__(self) -> None:
         self.groups = []
@@ -21,7 +21,7 @@ class world:
         for i in characters:
             char = character(i)
             self.characters.append(char)
-            for g in i[1:]:
+            for g in i["groups"]:
                 if g not in [x.name for x in self.groups]:
                     self.groups.append(group(g))
                 for group_obj in self.groups:
@@ -40,7 +40,7 @@ class world:
         while start == end:
             end = random.choice(self.characters)
         cur = start
-        print(f"Start: {start.name} from {start.main_group}. End : {end.name} from {end.main_group}")
+        print(f"Start: {start.name} from {start.origin}. End : {end.name} from {end.origin}")
         while cur != end:
             round += 1
             in_loop = True
@@ -62,18 +62,18 @@ class world:
                     else:
                         iin = True
                         while iin:
-                            inp = input(f"From? \n options: {[i.main_group for i in lst]}")
-                            if inp in [i.main_group.name for i in lst]:
-                                cur = [i for i in lst if i.main_group == inp]
+                            inp = input(f"From? \n options: {[i.origin for i in lst]}")
+                            if inp in [i.origin.name for i in lst]:
+                                cur = [i for i in lst if i.origin == inp]
                                 iin = False
         print("Game Won in", round, "rounds")
     def needed_characters(self):
         dict = {}
         for i in self.characters:
-            if i.main_group in dict.keys():
-                dict[i.main_group]+=1
+            if i.origin in dict.keys():
+                dict[i.origin]+=1
             else:
-                dict[i.main_group]= 1
+                dict[i.origin]= 1
         for i in dict.keys():
             if dict[i]< 10:
                 input(f'{i} needs {10-dict[i]} more characters')
@@ -85,7 +85,7 @@ class world:
     def CreateCustomGame(self, start, end):
         round = 0
         cur = start
-        print(f"Start: {start.name} from {start.main_group}. End : {end.name} from {end.main_group}")
+        print(f"Start: {start.name} from {start.origin}. End : {end.name} from {end.origin}")
         while cur != end:
             round += 1
             in_loop = True
@@ -107,9 +107,9 @@ class world:
                     else:
                         iin = True
                         while iin:
-                            inp = input(f"From? \n options: {[i.main_group for i in lst]}")
-                            if inp in [i.main_group.name for i in lst]:
-                                cur = [i for i in lst if i.main_group == inp]
+                            inp = input(f"From? \n options: {[i.origin for i in lst]}")
+                            if inp in [i.origin.name for i in lst]:
+                                cur = [i for i in lst if i.origin == inp]
                                 iin = False
         print("Game Won in", round, "rounds")
         
