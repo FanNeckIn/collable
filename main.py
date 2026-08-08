@@ -5,7 +5,7 @@ class group:
         self.name = name
         self.characters = []
         self.character_names = []
-    def add_character(self, character: character) -> None:
+    def add_character(self, character) -> None:
         self.characters.append(character)
         self.character_names.append(character.name)
 class character:
@@ -117,7 +117,7 @@ class world:
 
 
 world_obj = world()
-world_obj.add_characters(characters.characters)
+world_obj.add_characters(characters.characters())
 # world_obj.print_groups()
 world_obj.top_groups()
 world_obj.CreateRandomGame()
