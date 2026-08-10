@@ -1,5 +1,6 @@
 import random
 import characters
+from datetime import date
 class group:
     def __init__(self, name: str) -> None:
         self.name = name
@@ -34,11 +35,13 @@ class world:
         for i in self.groups:
             print(f"{i.name} has {', '.join(i.character_names)} ({len(i.character_names)} characters)")
     def CreateRandomGame(self):
-        round = 0
         start = random.choice(self.characters)
         end = random.choice(self.characters)
         while start == end:
             end = random.choice(self.characters)
+        self.CreateCustomGame(start, end)
+    def CreateCustomGame(self, start, end):
+        round = 0
         cur = start
         print(f"Start: {start.name} from {start.origin}. End : {end.name} from {end.origin}")
         while cur != end:
@@ -82,37 +85,15 @@ class world:
             print([f"{i.name}, {len(i.characters)}" for i in sorted(self.groups, key=lambda x: len(x.characters))])
             return
         print([f"{i.name}, {len(i.characters)}" for i in sorted(self.groups, key=lambda x: len(x.characters), reverse=True)][:n-1])
-    def CreateCustomGame(self, start, end):
-        round = 0
-        cur = start
-        print(f"Start: {start.name} from {start.origin}. End : {end.name} from {end.origin}")
-        while cur != end:
-            round += 1
-            in_loop = True
-            while in_loop:
-                inp = input(f"Enter Next Group (Cur Character is {cur.name}): ")
-                if inp in [i.name for i in self.groups if cur in i.characters]:
-                    in_loop = False
-                    cur_group = [i for i in self.groups if i.name == inp][0]
-                else:
-                    print("Error: unknown group / character not in group")
-            in_loop = True
-            while in_loop:
-                inp = input(f"Enter Next Character:")
-                if inp in cur_group.character_names:
-                    in_loop = False
-                    lst = [i for i in cur_group.characters if i.name == inp]
-                    if len(lst) == 1:
-                        cur = lst[0]
-                    else:
-                        iin = True
-                        while iin:
-                            inp = input(f"From? \n options: {[i.origin for i in lst]}")
-                            if inp in [i.origin.name for i in lst]:
-                                cur = [i for i in lst if i.origin == inp]
-                                iin = False
         print("Game Won in", round, "rounds")
-        
+    def CreateDailyGame(self):
+        d = date.today() - date(1970, 1 , 1)
+        random.seed(d.days)
+        start = random.choice(self.characters)
+        end = random.choice(self.characters)
+        while start == end or len([i for i in start.groups if i in end.groups])>0:
+             end = random.choice(self.characters)
+        self.CreateCustomGame(start, end)
 
 
 
@@ -120,6 +101,6 @@ world_obj = world()
 world_obj.add_characters(characters.characters())
 # world_obj.print_groups()
 world_obj.top_groups()
-world_obj.CreateRandomGame()
+world_obj.CreateDailyGame()
 # world_obj.needed_characters()
 # world_obj.CreateCustomGame([i for i in world_obj.characters if i.name == "Fluttershy"][0], [i for i in world_obj.characters if i.name == "Funshine Bear"][0])

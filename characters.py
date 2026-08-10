@@ -1,10 +1,7 @@
 
 import json
 new_characters = [ 
-     ["The Punisher", "Marvel Comics", "Fortnite"],
-     ["The Punisher", "Bleach", "Fortnite"],
-     ["Yoruichi Shihoin", "Bleach", "Fortnite"],
-     ["Kisuke Urahara", "Bleach", "Fortnite"],
+     
 ]
 
 def add_characters():
@@ -29,4 +26,4 @@ def characters():
     with open("character.json", "r") as f:
         return json.load(f)
 
-add_characters()
+# add_characters()
