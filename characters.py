@@ -1,7 +1,7 @@
 
 import json
 new_characters = [ 
-     
+
 ]
 
 def add_characters():
@@ -20,7 +20,7 @@ def add_characters():
                 char_json.append(new_dict)
     with open("character.json", "w") as f:
         char_json.sort(key = lambda x: x["origin"]+x["name"])
-        json.dump(char_json, f)
+        json.dump(char_json, f, indent=4)
     print("charcters added")
 def characters():
     with open("character.json", "r") as f:
