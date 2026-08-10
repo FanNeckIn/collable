@@ -1,6 +1,28 @@
 
 import json
 new_characters = [ 
+     ["Ribbon Girl", "ARMS", "Super Smash Bros Ultimate"],
+     ["Martial Artist Gi", "Dragon Quest", "Super Smash Bros Ultimate"],
+     ["Flying Man", "EarthBound", "Super Smash Bros Ultimate"],
+     ["Pig", "Minecraft", "Super Smash Bros Ultimate"],
+     ["Ryo Sakazaki", "Art of Fighting", "Super Smash Bros Ultimate"],
+     ["Shantae", "Shantae", "Super Smash Bros Ultimate"],
+     ["Iori Yagami", "The King of Fighters", "Super Smash Bros Ultimate"],
+     ["Jacky", "Virtua Fighter", "Super Smash Bros Ultimate"],
+     ["Nia", "Xenoblade Chronicles", "Super Smash Bros Ultimate"],
+     ["Erdrick", "Dragon Quest", "Super Smash Bros Ultimate"],
+     ["Veronica", "Dragon Quest", "Super Smash Bros Ultimate"],
+     ["Aerith", "Final Fantasy", "Super Smash Bros Ultimate"],
+     ["Arthur", "Ghosts 'n Goblins", "Super Smash Bros Ultimate"],
+     ["Viridi", "Kid Icarus", "Super Smash Bros Ultimate"],
+     ["Altair", "Assassin's Creed", "Super Smash Bros Ultimate"],
+     ["Gil", "Babylonian Castle Saga", "Super Smash Bros Ultimate"],
+     ["Dante", "Devil May Cry", "Super Smash Bros Ultimate"],
+     ["Goemon", "Goemon", "Super Smash Bros Ultimate"],
+     ["Lloyd", "Tales", "Super Smash Bros Ultimate"],
+     ["Geno", "Mario Bros", "Super Smash Bros Ultimate"],
+     ["Doom Slayer", "DOOM", "Super Smash Bros Ultimate"],
+     ["Sans", "Undertale", "Super Smash Bros Ultimate"],
 ]
 
 def add_characters():
@@ -25,4 +47,4 @@ def characters():
     with open("character.json", "r") as f:
         return json.load(f)
 
-add_characters()
+# add_characters()
