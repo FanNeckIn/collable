@@ -1760,14 +1760,6 @@
         ]
     },
     {
-        "name": "Betegeuse",
-        "origin": "Beetlejuice",
-        "groups": [
-            "Beetlejuice",
-            "LEGO Dimensions"
-        ]
-    },
-    {
         "name": "Betelgeuse",
         "origin": "Beetlejuice",
         "groups": [
@@ -3302,7 +3294,8 @@
         "name": "Isaac Clarke",
         "origin": "Dead Space",
         "groups": [
-            "Dead Space"
+            "Dead Space",
+            "Fortnite"
         ]
     },
     {
@@ -16217,16 +16210,16 @@
     },
     {
         "name": "Cookie Monster",
-        "origin": "Sesamie Street",
+        "origin": "Sesame Street",
         "groups": [
-            "Sesamie Street"
+            "Sesame Street"
         ]
     },
     {
         "name": "Elmo",
-        "origin": "Sesamie Street",
+        "origin": "Sesame Street",
         "groups": [
-            "Sesamie Street"
+            "Sesame Street"
         ]
     },
     {
@@ -21484,10 +21477,5 @@
             "Zootopia",
             "Disney Infinity"
         ]
-    },
-    {
-        "name": "D",
-        "origin": "i",
-        "groups": "isney Dreamlight Valley"
     }
 ]
