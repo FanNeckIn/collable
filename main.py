@@ -1,6 +1,8 @@
 import random
 import characters
 from datetime import date
+from itertools import combinations
+import json
 class group:
     def __init__(self, name: str) -> None:
         self.name = name
@@ -94,6 +96,28 @@ class world:
         while start == end or len([i for i in start.groups if i in end.groups])>0:
              end = random.choice(self.characters)
         self.CreateCustomGame(start, end)
+    def CheckMinLen(self, start, end):
+        round = 0
+        all_characters = {start}
+        while True:
+            round += 1
+            for i in all_characters:
+                for j in [k for k in self.groups if k.name in i.groups]:
+                    all_characters = all_characters.union(set(j.characters))
+            if end in all_characters:
+                return round
+    def CheckAllLengths(self):
+        answer = {}
+        for i in combinations(self.characters, 2):
+            a = self.CheckMinLen(i[0], i[1])
+            # print(i[0].name, i[1].name, a)
+            if a in answer.keys():
+                answer[a] += 1
+            else:
+                answer[a] = 1
+        with open("answer.json", "w") as f:
+            json.dump(answer, f, indent=4)
+            
 
 
 
@@ -101,6 +125,8 @@ world_obj = world()
 world_obj.add_characters(characters.characters())
 # world_obj.print_groups()
 world_obj.top_groups()
-world_obj.CreateDailyGame()
+# world_obj.CreateDailyGame()
 # world_obj.needed_characters()
 # world_obj.CreateCustomGame([i for i in world_obj.characters if i.name == "Fluttershy"][0], [i for i in world_obj.characters if i.name == "Funshine Bear"][0])
+world_obj.CheckAllLengths()
+# print(len(world_obj.characters))
