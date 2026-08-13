@@ -2,6 +2,7 @@ import random
 import characters
 from datetime import date
 from itertools import combinations
+from time import time
 import json
 class group:
     def __init__(self, name: str) -> None:
@@ -125,8 +126,12 @@ class world:
         print(len(chars.keys()))
         answer = {1:0,2:0,3:0,4:0,5:0,6:0}
         check = set()
+        s = time()
         for i in combinations(chars.keys(), 2):
             if i[0] not in check:
+                print(len(check))
+                print(s-time())
+                s=time()
                 print(i[0].__str__(), chars[i[0]], i[0].groups , answer)
                 answer[1] += (chars[i[0]]-1)*chars[i[0]]
                 check.add(i[0])
