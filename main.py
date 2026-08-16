@@ -14,6 +14,8 @@ class character:
         self.name = dicty["name"]
         self.groups = dicty["groups"]
         self.origin = dicty["origin"]
+    def __str__(self) -> str:
+        return self.name + " from " + self.origin
 class world:
     def __init__(self) -> None:
         self.groups = []
@@ -30,7 +32,7 @@ class world:
                         group_obj.add_character(char)
     def print_characters(self) -> None:
         for i in self.characters:
-            print(f"{i.name} is in {', '.join(i.groups)} ({len(i.groups)} groups)")
+            print(f"{i} is in {', '.join(i.groups)} ({len(i.groups)} groups)")
     def print_groups(self) -> None:
         for i in self.groups:
             print(f"{i.name} has {', '.join(i.character_names)} ({len(i.character_names)} characters)")
