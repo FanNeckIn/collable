@@ -157,4 +157,3 @@ def characters():
     with open("character.json", "r") as f:
         return json.load(f)
 
-# add_characters()
