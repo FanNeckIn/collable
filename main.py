@@ -1,6 +1,9 @@
 import random
 import characters
 from datetime import date
+from itertools import combinations
+from time import time
+import json
 class group:
     def __init__(self, name: str) -> None:
         self.name = name
@@ -20,6 +23,11 @@ class world:
     def __init__(self) -> None:
         self.groups = []
         self.characters = []
+    def sort_by_groups(self, x):
+        string = ""
+        for i in sorted(x.groups):
+            string += i
+        return string
     def add_characters(self, characters: list) -> None:
         for i in characters:
             char = character(i)
@@ -46,30 +54,31 @@ class world:
         round = 0
         cur = start
         print(f"Start: {start.name} from {start.origin}. End : {end.name} from {end.origin}")
+        cur_group = group("")
         while cur != end:
             round += 1
             in_loop = True
             while in_loop:
-                inp = input(f"Enter Next Group (Cur Character is {cur.name}): ")
-                if inp in [i.name for i in self.groups if cur in i.characters]:
+                inp = input(f"Enter Next Group (Cur Character is {cur.name}): ").lower()
+                if inp in [i.name.lower() for i in self.groups if cur in i.characters]:
                     in_loop = False
-                    cur_group = [i for i in self.groups if i.name == inp][0]
+                    cur_group = [i for i in self.groups if i.name.lower() == inp][0]
                 else:
                     print("Error: unknown group / character not in group")
             in_loop = True
             while in_loop:
-                inp = input(f"Enter Next Character:")
-                if inp in cur_group.character_names:
+                inp = input(f"Enter Next Character:").lower()
+                if inp in [i.lower() for i in cur_group.character_names]:
                     in_loop = False
-                    lst = [i for i in cur_group.characters if i.name == inp]
+                    lst = [i for i in cur_group.characters if i.name.lower() == inp]
                     if len(lst) == 1:
                         cur = lst[0]
                     else:
                         iin = True
                         while iin:
-                            inp = input(f"From? \n options: {[i.origin for i in lst]}")
-                            if inp in [i.origin.name for i in lst]:
-                                cur = [i for i in lst if i.origin == inp]
+                            inp = input(f"From? \n options: {[i.origin for i in lst]}").lower()
+                            if inp in [i.origin.name.lower() for i in lst]:
+                                cur = [i for i in lst if i.origin.lower() == inp]
                                 iin = False
         print("Game Won in", round, "rounds")
     def needed_characters(self):
@@ -96,13 +105,53 @@ class world:
         while start == end or len([i for i in start.groups if i in end.groups])>0:
              end = random.choice(self.characters)
         self.CreateCustomGame(start, end)
+    def CheckMinLen(self, start, end):
+        round = 0
+        all_characters = {start}
+        while True:
+            round += 1
+            for i in all_characters:
+                for j in [k for k in self.groups if k.name in i.groups]:
+                    all_characters = all_characters.union(set(j.characters))
+            if end in all_characters:
+                return round
+    def CheckAllLengths(self):
+        self.characters.sort(key=self.sort_by_groups)
+        chars = {}
+        start = 0
+        for i in range(len(self.characters)):
+            if not set(self.characters[i].groups) == set(self.characters[start].groups):
+                chars[self.characters[start]] = i-start
+                start = i
+        print(len(chars.keys()))
+        answer = {1:0,2:0,3:0,4:0,5:0,6:0}
+        check = set()
+        s = time()
+        for i in combinations(chars.keys(), 2):
+            if i[0] not in check:
+                print(len(check))
+                print(s-time())
+                s=time()
+                print(i[0].__str__(), chars[i[0]], i[0].groups , answer)
+                answer[1] += (chars[i[0]]-1)*chars[i[0]]
+                check.add(i[0])
+            a = self.CheckMinLen(i[0], i[1])
+            if a in answer.keys():
+                answer[a] += chars[i[0]] *chars[i[1]]
+            else:
+                    answer[a] = chars[i[0]] *chars[i[1]]
+        with open("answer.json", "w") as f:
+            json.dump(answer, f, indent=4)
+            
 
 
 
 world_obj = world()
 world_obj.add_characters(characters.characters())
 # world_obj.print_groups()
-world_obj.top_groups()
-world_obj.CreateDailyGame()
+# world_obj.top_groups()
+# world_obj.CreateDailyGame()
+# world_obj.CreateRandomGame()
 # world_obj.needed_characters()
-# world_obj.CreateCustomGame([i for i in world_obj.characters if i.name == "Fluttershy"][0], [i for i in world_obj.characters if i.name == "Funshine Bear"][0])
+print(len(world_obj.groups))
+world_obj.CheckAllLengths()

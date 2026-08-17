@@ -15301,7 +15301,7 @@
         ]
     },
     {
-        "name": "Tinker Bell",
+        "name": "Peter Pan",
         "origin": "Peter Pan",
         "groups": [
             "Peter Pan",
@@ -15311,6 +15311,15 @@
         ]
     },
     {
+        "name": "Tinker Bell",
+        "origin": "Peter Pan",
+        "groups": [
+            "Peter Pan",
+            "Disney Infinity",
+            "Wreck-It Ralph",
+            "Disney Dreamlight Valley"
+          ]
+    },
         "name": "Soul",
         "origin": "Phantom Blade Zero",
         "groups": [
@@ -20711,6 +20720,22 @@
         "name": "Goda",
         "origin": "River City",
         "groups": [
+            "Dead Cells",
+            "Risk of Rain"
+        ]
+    },
+    {
+        "name": "Ranno",
+        "origin": "Rivals of Aether",
+        "groups": [
+            "Brawlhalla",
+            "Rivals of Aether"
+        ]
+    },
+    {
+        "name": "Goda",
+        "origin": "River City",
+        "groups": [
             "River City",
             "Super Smash Bros Ultimate"
         ]
@@ -21105,9 +21130,7 @@
         "name": "Oscar the Grouch",
         "origin": "Sesame Street",
         "groups": [
-            "Sesame Street",
-            "The Muppets",
-            "Night at the Museum: Battle of the Smithsonian"
+            "Sesame Street"
         ]
     },
     {
@@ -22810,9 +22833,42 @@
         ]
     },
     {
-        "name": "Marnie",
+        "name": "Abigail",
         "origin": "Stardew Valley",
         "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Grandpa",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Jumino",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Krobus",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Lewis",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Among Us",
             "Stardew Valley",
             "Balatro"
         ]
@@ -23794,6 +23850,14 @@
         "origin": "Teenage Mutant Ninja Turtles",
         "groups": [
             "Teenage Mutant Ninja Turtles",
+            "Fall Guys"
+        ]
+    },
+    {
+        "name": "Bebop",
+        "origin": "Teenage Mutant Ninja Turtles",
+        "groups": [
+            "Teenage Mutant Ninja Turtles",
             "Fortnite",
             "Magic: The Gathering",
             "Fall Guys"
@@ -23899,16 +23963,9 @@
         "origin": "Teenage Mutant Ninja Turtles",
         "groups": [
             "Teenage Mutant Ninja Turtles",
-            "Fall Guys"
-        ]
-    },
-    {
-        "name": "Splinter",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
-            "Teenage Mutant Ninja Turtles",
             "Fortnite",
-            "Magic: The Gathering"
+            "Magic: The Gathering",
+            "Fall Guys"
         ]
     },
     {
@@ -25770,6 +25827,37 @@
             "Nickelodeon All-Star Brawl"
         ]
     },
+        "name": "Dr. Facilier",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog"
+        ]
+    },
+    {
+        "name": "Prince Naveen",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog",
+            "Wreck-It Ralph"
+        ]
+    },
+    {
+        "name": "Tiana",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog",
+            "Wreck-It Ralph",
+            "Disney Dreamlight Valley"
+        ]
+    },
+    {
+        "name": "Powdered Toast Man",
+        "origin": "The Ren & Stimpy Show",
+        "groups": [
+            "The Ren & Stimpy Show",
+            "Nickelodeon All-Star Brawl"
+        ]
+    },
     {
         "name": "Ren",
         "origin": "The Ren & Stimpy Show",
@@ -25797,14 +25885,6 @@
         ]
     },
     {
-        "name": "Alexie Grady",
-        "origin": "The Shining",
-        "groups": [
-            "The Shining",
-            "Ready Player One"
-        ]
-    },
-    {
         "name": "Jack Torrance",
         "origin": "The Shining",
         "groups": [
@@ -25813,7 +25893,7 @@
         ]
     },
     {
-        "name": "Lorraine Massey ",
+        "name": "Lorraine Massey",
         "origin": "The Shining",
         "groups": [
             "The Shining",
@@ -26065,7 +26145,17 @@
         "origin": "The Walking Dead",
         "groups": [
             "The Walking Dead",
+            "Brawlhalla",
+            "Fortnite",
             "Magic: The Gathering"
+        ]
+    },
+    {
+        "name": "Maggie",
+        "origin": "The Walking Dead",
+        "groups": [
+            "The Walking Dead",
+            "Brawlhalla"
         ]
     },
     {

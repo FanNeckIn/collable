@@ -1,6 +1,7 @@
 
 *.pyc
 um.txt
+answer.json
 # Logs
 logs
 *.log
