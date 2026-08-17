@@ -1075,8 +1075,8 @@
         "name": "Perlica",
         "origin": "Arknights: Endfield",
         "groups": [
-            "Arknights: Endfield",
-            "Fortnite"
+            "Fortnite",
+            "Arknights: Endfield"
         ]
     },
     {
@@ -2641,7 +2641,171 @@
         "origin": "Castlevania",
         "groups": [
             "Castlevania",
+            "Dead By Daylight",
             "Brawlhalla"
+        ]
+    },
+    {
+        "name": "Carmilla",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Charlotte",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Death",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Dracula",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Dead By Daylight",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Flea Man",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Gabriel",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Hector",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Hugh",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Jonathan Morris",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Dead By Daylight"
+        ]
+    },
+    {
+        "name": "Julius",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Juste",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Leon",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Dead By Daylight",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Maria",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Dead By Daylight",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Medusa Head",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Mummy",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Nathan",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Richter",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Shaft",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Shanoa",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Dead By Daylight"
+        ]
+    },
+    {
+        "name": "Shanoa",
+        "origin": "Castlevania",
+        "groups": [
+            "Castlevania",
+            "Super Smash Bros Ultimate"
         ]
     },
     {
@@ -2649,242 +2813,64 @@
         "origin": "Castlevania",
         "groups": [
             "Castlevania",
+            "Super Smash Bros Ultimate",
+            "Dead By Daylight",
             "Brawlhalla"
         ]
     },
     {
-        "name": "Alucard",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Dead By Daylight"
-        ]
-    },
-    {
-        "name": "Carmilla",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Charlotte",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Death",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Dracula",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Dead By Daylight",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Flea Man",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Gabriel",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Hector",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Hugh",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Jonathan Morris",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Dead By Daylight"
-        ]
-    },
-    {
-        "name": "Julius",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Juste",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Leon",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Dead By Daylight",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Maria",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Dead By Daylight",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Medusa Head",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Mummy",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Nathan",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Richter",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Shaft",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Shanoa",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Dead By Daylight"
-        ]
-    },
-    {
-        "name": "Shanoa",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate"
-        ]
-    },
-    {
-        "name": "Simon",
-        "origin": "Castlevenia",
-        "groups": [
-            "Castlevenia",
-            "Super Smash Bros Ultimate",
-            "Dead By Daylight"
-        ]
-    },
-    {
         "name": "Soma",
-        "origin": "Castlevenia",
+        "origin": "Castlevania",
         "groups": [
-            "Castlevenia",
+            "Castlevania",
             "Dead By Daylight"
         ]
     },
     {
         "name": "Soma Cruz",
-        "origin": "Castlevenia",
+        "origin": "Castlevania",
         "groups": [
-            "Castlevenia",
+            "Castlevania",
             "Super Smash Bros Ultimate"
         ]
     },
     {
         "name": "Sypha",
-        "origin": "Castlevenia",
+        "origin": "Castlevania",
         "groups": [
-            "Castlevenia",
+            "Castlevania",
             "Dead By Daylight"
         ]
     },
     {
         "name": "The Creature",
-        "origin": "Castlevenia",
+        "origin": "Castlevania",
         "groups": [
-            "Castlevenia",
+            "Castlevania",
             "Super Smash Bros Ultimate"
         ]
     },
     {
         "name": "Trevor",
-        "origin": "Castlevenia",
+        "origin": "Castlevania",
         "groups": [
-            "Castlevenia",
+            "Castlevania",
             "Super Smash Bros Ultimate"
         ]
     },
     {
         "name": "Werewolf",
-        "origin": "Castlevenia",
+        "origin": "Castlevania",
         "groups": [
-            "Castlevenia",
+            "Castlevania",
             "Super Smash Bros Ultimate"
         ]
     },
     {
         "name": "Yoko",
-        "origin": "Castlevenia",
+        "origin": "Castlevania",
         "groups": [
-            "Castlevenia",
+            "Castlevania",
             "Super Smash Bros Ultimate"
         ]
     },
@@ -15315,6 +15301,16 @@
         ]
     },
     {
+        "name": "Peter Pan",
+        "origin": "Peter Pan",
+        "groups": [
+            "Peter Pan",
+            "Disney Infinity",
+            "Wreck-It Ralph",
+            "Disney Dreamlight Valley"
+        ]
+    },
+    {
         "name": "Tinker Bell",
         "origin": "Peter Pan",
         "groups": [
@@ -15322,6 +15318,13 @@
             "Disney Infinity",
             "Wreck-It Ralph",
             "Disney Dreamlight Valley"
+          ]
+    },
+        "name": "Soul",
+        "origin": "Phantom Blade Zero",
+        "groups": [
+            "Phantom Blade Zero",
+            "Fortnite"
         ]
     },
     {
@@ -15690,43 +15693,136 @@
         ]
     },
     {
-        "name": "Aegislash",
+        "name": "Accelgor",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Aegislash",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Alcremie",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Alomomola",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Altaria",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Amaura",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Amoonguss",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Ampharos",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Appletun",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Applin",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Arbok",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Arcanine",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Arceus",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Archeops",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Ariados",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Armarouge",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -15738,11 +15834,100 @@
         ]
     },
     {
-        "name": "Azelf",
+        "name": "Audino",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Aurorus",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Avalugg",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Azelf",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Azumarill",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Azurill",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Banette",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Beartic",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Beautifly",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Beheeyem",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Beldum",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Bellibolt",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
@@ -15754,6 +15939,30 @@
         ]
     },
     {
+        "name": "Bellsprout",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Belossom",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Bergmite",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Bewear",
         "origin": "Pokemon",
         "groups": [
@@ -15762,19 +15971,141 @@
         ]
     },
     {
-        "name": "Blastoise",
+        "name": "Bibarel",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Bidoof",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Blastoise",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Blaziken",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Bounsweet",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Brambleghast",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Bramblin",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Brionne",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Bronzong",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Bronzor",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Budew",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Buizel",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Bulbasaur",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Butterfree",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cacturne",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Carbink",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Castform",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -15786,59 +16117,162 @@
         ]
     },
     {
-        "name": "Chandelure",
+        "name": "Celesteela",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cetoddle",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Chandelure",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Chansey",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Charizard",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Charmander",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chatot",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cherrim",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cherubi",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Chespin",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chewtle",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Chikorita",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chimchar",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Chinchou",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Chingling",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Clauncher",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Clefable",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
         "name": "Clefairy",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Clobbopus",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
@@ -15850,11 +16284,51 @@
         ]
     },
     {
+        "name": "Combee",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Corphish",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
         "name": "Corviknight",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
             "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Cosmoem",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cosmog",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cottonee",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -15866,11 +16340,52 @@
         ]
     },
     {
-        "name": "Cubone",
+        "name": "Crocalor",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cryogonal",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cubchoo",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cubone",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Cutiefly",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Cyndaquil",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -15882,19 +16397,45 @@
         ]
     },
     {
-        "name": "Dedenne",
+        "name": "Decidueye",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Dedenne",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Delibird",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Delphox",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Deoxys",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -15909,32 +16450,84 @@
         "name": "Dialga",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Diancie",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Diglett",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dipplin",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Ditto",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dodrio",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Doduo",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dondozo",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Dragapult",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Dragonite",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -15946,6 +16539,54 @@
         ]
     },
     {
+        "name": "Drifblim",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Drifloon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Drilburr",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Drowzee",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Dudunsparce",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Dugrio",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Dugtrio",
         "origin": "Pokemon",
         "groups": [
@@ -15954,19 +16595,69 @@
         ]
     },
     {
-        "name": "Eevee",
+        "name": "Dusknoir",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Duskull",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Dwebble",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Eevee",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Eiscue",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Eldegoss",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Electrode",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Empoleon",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
@@ -15978,27 +16669,126 @@
         ]
     },
     {
-        "name": "Exeggutor",
+        "name": "Espeon",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Espurr",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Eternatus",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Exeggute",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Exeggutor",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Exploud",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Farfetch'd",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Farigiraf",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Fennekin",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Ferrothorn",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Finneon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Flabebe",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Flapple",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Flareon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Fletchinder",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16010,35 +16800,103 @@
         ]
     },
     {
-        "name": "Flygon",
+        "name": "Floette",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Florges",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Flutter Mane",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Flygon",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Froakie",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Froslass",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Frosmoth",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Fuecoco",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gallade",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Garchomp",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Gardevoir",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gastly",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
@@ -16053,32 +16911,100 @@
         "name": "Gengar",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Geodude",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Gible",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Gimmighoul",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Giratina",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Glaceon",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Glailie",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Glastrier",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Glimmet",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Glimmora",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Gogoat",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Golbat",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
@@ -16087,6 +17013,78 @@
         "groups": [
             "Pokemon",
             "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Golem",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Goomey",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Gossifleur",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Gothitelle",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Gourgeist",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Grafaiai",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Granbull",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Grapploct",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Greedent",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16101,24 +17099,51 @@
         "name": "Greninja",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Grievard",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
         "name": "Grookey",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Groudon",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Growlithe",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Gulpin",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16127,6 +17152,54 @@
         "groups": [
             "Pokemon",
             "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Hakamo-o",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Hatterene",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Hattrem",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Haunter",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Haxorus",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Helioptile",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
@@ -16146,11 +17219,36 @@
         ]
     },
     {
-        "name": "Ho-Oh",
+        "name": "Hitmontop",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Ho-Oh",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Honchkrow",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Honedge",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16162,11 +17260,52 @@
         ]
     },
     {
-        "name": "Houndoom",
+        "name": "Hoothoot",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Hoppip",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Horsea",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Houndoom",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Houndour",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Hydrapple",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16178,43 +17317,112 @@
         ]
     },
     {
-        "name": "Incineroar",
+        "name": "Igglybuff",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Illumise",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Incineroar",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Indeedee",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Inkay",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Iron Bundle",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Ivysaur",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jangmo-o",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Jigglypuff",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Jirachi",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Jolteon",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Jumpluff",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Jynx",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16226,35 +17434,111 @@
         ]
     },
     {
-        "name": "Keldeo",
+        "name": "Kartana",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Kecleon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Keldeo",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kirlia",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Klefki",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Klinklang",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Kommo-o",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Koraidon",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Kricketune",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Kubfu",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Kyogre",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Kyurem",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lampent",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
@@ -16266,51 +17550,169 @@
         ]
     },
     {
-        "name": "Lapras",
+        "name": "Lanturn",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Lapras",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Latias",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Latios",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Leafeon",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Ledian",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Ledyba",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Liepard",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Lilligant",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Litten",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Litwick",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Lopunny",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Lotad",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Lucario",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Lugia",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Lunala",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Lunatone",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Luvdisc",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Luxray",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Mabostiff",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16330,6 +17732,14 @@
         ]
     },
     {
+        "name": "Magikarp",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Magneton",
         "origin": "Pokemon",
         "groups": [
@@ -16346,11 +17756,43 @@
         ]
     },
     {
+        "name": "Mantine",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Mantyke",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Maractus",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Marill",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
             "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Marowak",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16362,27 +17804,46 @@
         ]
     },
     {
-        "name": "Meloetta",
+        "name": "Mawile",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Meloetta",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Meowstic",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Meowth",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Mesprit",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -16397,88 +17858,259 @@
         "name": "Metapod",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Mew",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Mewtwo",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mightyena",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Milcery",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Milotic",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Miltank",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mime Jr.",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Mimikyu",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Minior",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Minun",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
         "name": "Miraidon",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Misdreavus",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Mismagius",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Moltres",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Morpeko",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mr. Mime",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Mudkip",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Mudsdale",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Munchlax",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Murkrow",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Necrozma",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Nidoking",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Nidoran",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Nidorino",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Nihilego",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Noctowl",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Noivern",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Nuzleaf",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Obstagoon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Octilerry",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16490,35 +18122,135 @@
         ]
     },
     {
-        "name": "Oshawott",
+        "name": "Onyx",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Oricorio",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Oshawott",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Palkia",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pancham",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Patrat",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Pawmi",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Pelliper",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Persian",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Petilil",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Phantump",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Pichu",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Pidgeot",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Pidgeotto",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
         "name": "Pidgey",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Pikachu",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -16541,24 +18273,115 @@
         "name": "Piplup",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Plusle",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Politoed",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Poliwag",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Poliwhirl",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Poltchageist",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Polteageist",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Popplio",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Porygon",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Porygon2",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Primarina",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Psyduck",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Pumpkaboo",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Purrloin",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16570,6 +18393,22 @@
         ]
     },
     {
+        "name": "Quagsire",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Quaquaval",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Quaxly",
         "origin": "Pokemon",
         "groups": [
@@ -16578,11 +18417,20 @@
         ]
     },
     {
-        "name": "Raichu",
+        "name": "Quaxwell",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Raichu",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -16594,19 +18442,45 @@
         ]
     },
     {
-        "name": "Rapidash",
+        "name": "Ralts",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Rapidash",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Raticate",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Rattata",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Rayquaza",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -16626,27 +18500,118 @@
         ]
     },
     {
-        "name": "Reshiram",
+        "name": "Relicanth",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Rellor",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Remoraid",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Reshiram",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Reuniclus",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Revavroom",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Ribombee",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Rillaboom",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Rookidee",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Roserade",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Rotom",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Rowlet",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sableye",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Salamance",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16658,11 +18623,44 @@
         ]
     },
     {
-        "name": "Sandshrew",
+        "name": "Sandaconda",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sandshrew",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sandyghast",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sawsbuck",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Scatterbug",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16677,16 +18675,82 @@
         "name": "Scorbunny",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Scraggy",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Scream Tail",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Seadra",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sentret",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Serperior",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Seviper",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sewaddle",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sharpedo",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Shaymin",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -16698,91 +18762,294 @@
         ]
     },
     {
-        "name": "Skarmory",
+        "name": "Shellder",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Shroomish",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Shuppet",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Silicobra",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sinistcha",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sinistea",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sirfetch'd",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Skarmory",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Skiploom",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Skwovet",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Slakoth",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Slowking",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Slowpoke",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Slurpuff",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Smeargle",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Smoochum",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
         "name": "Snivy",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Snom",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Snorlax",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Snorunt",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Snover",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Snubull",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Sobble",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Solgaleo",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Solrock",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Spectrier",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Spewpa",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spheal",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Spinda",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Spiritomb",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Sprigatito",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Spritzee",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Squirtle",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Starmie",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
         "name": "Staryu",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -16794,27 +19061,86 @@
         ]
     },
     {
-        "name": "Sudowoodo",
+        "name": "Steenee",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Stunfisk",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Sudowoodo",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Suicune",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Surskit",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Swablu",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Swalot",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Swinub",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Swirlix",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Sylveon",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
@@ -16826,6 +19152,14 @@
         ]
     },
     {
+        "name": "Tatsugiri",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Tauros",
         "origin": "Pokemon",
         "groups": [
@@ -16834,11 +19168,43 @@
         ]
     },
     {
+        "name": "Tentacool",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Tentacruel",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Tepig",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Terapagos",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
             "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Terracosta",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16858,19 +19224,77 @@
         ]
     },
     {
-        "name": "Togedemaru",
+        "name": "Thwackey",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Tinkatink",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Tinkaton",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Tinkatuff",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Togedemaru",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Togekiss",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Togepi",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Togetic",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Torchic",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
@@ -16882,27 +19306,142 @@
         ]
     },
     {
-        "name": "Tyranitar",
+        "name": "Totodile",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Toucannon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Toxtricity",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Trapinch",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Treecko",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Trevenant",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Trumbeak",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Turtwig",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Tyranitar",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Umbreon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Unown",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Uxie",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Vanillite",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Vanilluxe",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Vaporeon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Varoom",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Venasaur",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16922,11 +19461,35 @@
         ]
     },
     {
+        "name": "Vileplume",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
         "name": "Virizion",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
             "Super Smash Bros Ultimate"
+        ]
+    },
+    {
+        "name": "Vivillon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Volbeat",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
@@ -16938,67 +19501,187 @@
         ]
     },
     {
-        "name": "Vulpix",
+        "name": "Volcarona",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Voltorb",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Vulpix",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wailmer",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Wailord",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Weavile",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Weedle",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
         ]
     },
     {
         "name": "Weezing",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wingull",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Wobbuffet",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Woobat",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Wooloo",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Wooper",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Wormadam",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Wurmple",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Wyrdeer",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Xerneas",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Xurkitree",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Yamper",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Yveltal",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Zacian",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
         "name": "Zamazenta",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -17010,27 +19693,62 @@
         ]
     },
     {
-        "name": "Zekrom",
+        "name": "Zebstrika",
         "origin": "Pokemon",
         "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Zekrom",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zigzagoon",
+        "origin": "Pokemon",
+        "groups": [
+            "Pokemon",
+            "Project Voltage"
         ]
     },
     {
         "name": "Zoroark",
         "origin": "Pokemon",
         "groups": [
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zorua",
+        "origin": "Pokemon",
+        "groups": [
+            "Project Voltage",
+            "Pokemon"
+        ]
+    },
+    {
+        "name": "Zubat",
+        "origin": "Pokemon",
+        "groups": [
             "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage"
         ]
     },
     {
         "name": "Zygarde",
         "origin": "Pokemon",
         "groups": [
-            "Pokemon",
-            "Super Smash Bros Ultimate"
+            "Project Voltage",
+            "Super Smash Bros Ultimate",
+            "Pokemon"
         ]
     },
     {
@@ -18002,6 +20720,22 @@
         "name": "Goda",
         "origin": "River City",
         "groups": [
+            "Dead Cells",
+            "Risk of Rain"
+        ]
+    },
+    {
+        "name": "Ranno",
+        "origin": "Rivals of Aether",
+        "groups": [
+            "Brawlhalla",
+            "Rivals of Aether"
+        ]
+    },
+    {
+        "name": "Goda",
+        "origin": "River City",
+        "groups": [
             "River City",
             "Super Smash Bros Ultimate"
         ]
@@ -18396,9 +21130,7 @@
         "name": "Oscar the Grouch",
         "origin": "Sesame Street",
         "groups": [
-            "Sesame Street",
-            "The Muppets",
-            "Night at the Museum: Battle of the Smithsonian"
+            "Sesame Street"
         ]
     },
     {
@@ -20101,9 +22833,42 @@
         ]
     },
     {
-        "name": "Marnie",
+        "name": "Abigail",
         "origin": "Stardew Valley",
         "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Grandpa",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Jumino",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Krobus",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Lewis",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Among Us",
             "Stardew Valley",
             "Balatro"
         ]
@@ -21094,7 +23859,8 @@
         "groups": [
             "Teenage Mutant Ninja Turtles",
             "Fortnite",
-            "Magic: The Gathering"
+            "Magic: The Gathering",
+            "Fall Guys"
         ]
     },
     {
@@ -21109,20 +23875,13 @@
         "name": "Donnie",
         "origin": "Teenage Mutant Ninja Turtles",
         "groups": [
-            "Teenage Mutant Ninja Turtles",
-            "Fall Guys"
-        ]
-    },
-    {
-        "name": "Donnie",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
             "Fortnite",
             "Ready Player One",
             "Sonic Racing: CrossWorlds",
             "Brawlhalla",
             "Magic: The Gathering",
-            "Teenage Mutant Ninja Turtles"
+            "Teenage Mutant Ninja Turtles",
+            "Fall Guys"
         ]
     },
     {
@@ -21138,27 +23897,12 @@
         "name": "Leo",
         "origin": "Teenage Mutant Ninja Turtles",
         "groups": [
-            "Teenage Mutant Ninja Turtles",
-            "Fall Guys"
-        ]
-    },
-    {
-        "name": "Leo",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
             "Fortnite",
             "Ready Player One",
             "Sonic Racing: CrossWorlds",
             "Wreck-It Ralph",
             "Teenage Mutant Ninja Turtles",
-            "Brawlhalla"
-        ]
-    },
-    {
-        "name": "Mikey",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
-            "Teenage Mutant Ninja Turtles",
+            "Brawlhalla",
             "Fall Guys"
         ]
     },
@@ -21171,40 +23915,19 @@
             "Teenage Mutant Ninja Turtles",
             "Brawlhalla",
             "Fortnite",
-            "Ready Player One"
-        ]
-    },
-    {
-        "name": "Raph",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
-            "Teenage Mutant Ninja Turtles",
+            "Ready Player One",
             "Fall Guys"
         ]
     },
     {
         "name": "Raph",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
-            "Teenage Mutant Ninja Turtles",
-            "Brawlhalla"
-        ]
-    },
-    {
-        "name": "Raphael",
         "origin": "Teenage Mutant Ninja Turtles",
         "groups": [
             "Teenage Mutant Ninja Turtles",
             "Ready Player One",
             "Fortnite",
-            "Sonic Racing: CrossWorlds"
-        ]
-    },
-    {
-        "name": "Rocksteady",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
-            "Teenage Mutant Ninja Turtles",
+            "Sonic Racing: CrossWorlds",
+            "Brawlhalla",
             "Fall Guys"
         ]
     },
@@ -21214,7 +23937,8 @@
         "groups": [
             "Teenage Mutant Ninja Turtles",
             "Fortnite",
-            "Magic: The Gathering"
+            "Magic: The Gathering",
+            "Fall Guys"
         ]
     },
     {
@@ -21239,16 +23963,9 @@
         "origin": "Teenage Mutant Ninja Turtles",
         "groups": [
             "Teenage Mutant Ninja Turtles",
-            "Fall Guys"
-        ]
-    },
-    {
-        "name": "Splinter",
-        "origin": "Teenage Mutant Ninja Turtles",
-        "groups": [
-            "Teenage Mutant Ninja Turtles",
             "Fortnite",
-            "Magic: The Gathering"
+            "Magic: The Gathering",
+            "Fall Guys"
         ]
     },
     {
@@ -23110,6 +25827,37 @@
             "Nickelodeon All-Star Brawl"
         ]
     },
+        "name": "Dr. Facilier",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog"
+        ]
+    },
+    {
+        "name": "Prince Naveen",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog",
+            "Wreck-It Ralph"
+        ]
+    },
+    {
+        "name": "Tiana",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog",
+            "Wreck-It Ralph",
+            "Disney Dreamlight Valley"
+        ]
+    },
+    {
+        "name": "Powdered Toast Man",
+        "origin": "The Ren & Stimpy Show",
+        "groups": [
+            "The Ren & Stimpy Show",
+            "Nickelodeon All-Star Brawl"
+        ]
+    },
     {
         "name": "Ren",
         "origin": "The Ren & Stimpy Show",
@@ -23137,14 +25885,6 @@
         ]
     },
     {
-        "name": "Alexie Grady",
-        "origin": "The Shining",
-        "groups": [
-            "The Shining",
-            "Ready Player One"
-        ]
-    },
-    {
         "name": "Jack Torrance",
         "origin": "The Shining",
         "groups": [
@@ -23153,7 +25893,7 @@
         ]
     },
     {
-        "name": "Lorraine Massey ",
+        "name": "Lorraine Massey",
         "origin": "The Shining",
         "groups": [
             "The Shining",
@@ -23405,7 +26145,17 @@
         "origin": "The Walking Dead",
         "groups": [
             "The Walking Dead",
+            "Brawlhalla",
+            "Fortnite",
             "Magic: The Gathering"
+        ]
+    },
+    {
+        "name": "Maggie",
+        "origin": "The Walking Dead",
+        "groups": [
+            "The Walking Dead",
+            "Brawlhalla"
         ]
     },
     {
@@ -23822,6 +26572,14 @@
         ]
     },
     {
+        "name": "Kasane Teto",
+        "origin": "UTAU",
+        "groups": [
+            "UTAU",
+            "Project Voltage"
+        ]
+    },
+    {
         "name": "Alien Pedant",
         "origin": "Ultraman",
         "groups": [
@@ -24001,11 +26759,52 @@
         "name": "Hatsune Miku",
         "origin": "Vocaloid",
         "groups": [
+            "Fall Guys",
+            "Sonic Racing: CrossWorlds",
             "Fortnite",
             "Vocaloid",
-            "Magic: The Gathering",
-            "Sonic Racing: CrossWorlds",
-            "Fall Guys"
+            "Project Voltage",
+            "Magic: The Gathering"
+        ]
+    },
+    {
+        "name": "KAITO",
+        "origin": "Vocaloid",
+        "groups": [
+            "Vocaloid",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Kagamine Len",
+        "origin": "Vocaloid",
+        "groups": [
+            "Vocaloid",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Kagamine Rin",
+        "origin": "Vocaloid",
+        "groups": [
+            "Vocaloid",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "MEIKO",
+        "origin": "Vocaloid",
+        "groups": [
+            "Vocaloid",
+            "Project Voltage"
+        ]
+    },
+    {
+        "name": "Megurine Luka",
+        "origin": "Vocaloid",
+        "groups": [
+            "Vocaloid",
+            "Project Voltage"
         ]
     },
     {
@@ -24311,7 +27110,8 @@
         "origin": "Winx Club",
         "groups": [
             "Time Princess",
-            "Winx Club"
+            "Winx Club",
+            "Nickelodeon Super Brawl 3"
         ]
     },
     {
@@ -24357,14 +27157,6 @@
         "origin": "Winx Club",
         "groups": [
             "Winx Club"
-        ]
-    },
-    {
-        "name": "Bloom",
-        "origin": "Winx",
-        "groups": [
-            "Winx",
-            "Nickelodeon Super Brawl 3"
         ]
     },
     {
