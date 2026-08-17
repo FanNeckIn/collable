@@ -3142,6 +3142,14 @@
         ]
     },
     {
+        "name": "Crash Bandicoot",
+        "origin": "Crash Bandicoot",
+        "groups": [
+            "Crash Bandicoot",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Axel",
         "origin": "Crazy Taxi",
         "groups": [
@@ -8641,6 +8649,14 @@
         ]
     },
     {
+        "name": "Jazz Jackrabbit",
+        "origin": "Jazz Jackrabbit",
+        "groups": [
+            "Jazz Jackrabbit",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Bones",
         "origin": "Jimmy Neutron: Boy Genius",
         "groups": [
@@ -9291,8 +9307,9 @@
         "name": "Sora",
         "origin": "Kingdom Hearts",
         "groups": [
-            "Kingdom Hearts",
-            "Super Smash Bros Ultimate"
+            "Super Smash Bros Ultimate",
+            "Fortnite",
+            "Kingdom Hearts"
         ]
     },
     {
@@ -12568,11 +12585,12 @@
         "name": "Mega Man",
         "origin": "Mega Man",
         "groups": [
-            "Super Smash Bros Ultimate",
             "Sonic Racing: CrossWorlds",
+            "Funko Fusion",
             "Mega Man",
+            "Super Smash Bros Ultimate",
             "Brawlhalla",
-            "Funko Fusion"
+            "Fortnite"
         ]
     },
     {
@@ -15177,10 +15195,11 @@
         "name": "Joker",
         "origin": "Persona",
         "groups": [
+            "Sonic Racing: CrossWorlds",
             "Persona",
             "Overwatch",
             "Super Smash Bros Ultimate",
-            "Sonic Racing: CrossWorlds"
+            "Fortnite"
         ]
     },
     {
@@ -15202,8 +15221,9 @@
         "name": "Morgana",
         "origin": "Persona",
         "groups": [
-            "Persona",
-            "Super Smash Bros Ultimate"
+            "Fortnite",
+            "Super Smash Bros Ultimate",
+            "Persona"
         ]
     },
     {
@@ -15318,8 +15338,9 @@
             "Disney Infinity",
             "Wreck-It Ralph",
             "Disney Dreamlight Valley"
-          ]
+        ]
     },
+    {
         "name": "Soul",
         "origin": "Phantom Blade Zero",
         "groups": [
@@ -20717,19 +20738,19 @@
         ]
     },
     {
-        "name": "Goda",
-        "origin": "River City",
-        "groups": [
-            "Dead Cells",
-            "Risk of Rain"
-        ]
-    },
-    {
         "name": "Ranno",
         "origin": "Rivals of Aether",
         "groups": [
             "Brawlhalla",
             "Rivals of Aether"
+        ]
+    },
+    {
+        "name": "Goda",
+        "origin": "River City",
+        "groups": [
+            "Dead Cells",
+            "Risk of Rain"
         ]
     },
     {
@@ -21597,11 +21618,12 @@
         "origin": "Sonic the Hedgehog",
         "groups": [
             "Magic: The Gathering",
-            "Super Smash Bros Ultimate",
             "Sonic Racing: CrossWorlds",
+            "Wreck-It Ralph",
+            "Super Smash Bros Ultimate",
             "Fall Guys",
             "Sonic the Hedgehog",
-            "Wreck-It Ralph"
+            "Fortnite"
         ]
     },
     {
@@ -21695,10 +21717,11 @@
         "name": "Shadow",
         "origin": "Sonic the Hedgehog",
         "groups": [
-            "Sonic the Hedgehog",
-            "Super Smash Bros Ultimate",
             "Magic: The Gathering",
-            "Sonic Racing: CrossWorlds"
+            "Sonic Racing: CrossWorlds",
+            "Super Smash Bros Ultimate",
+            "Sonic the Hedgehog",
+            "Fortnite"
         ]
     },
     {
@@ -21714,14 +21737,15 @@
         "name": "Sonic",
         "origin": "Sonic the Hedgehog",
         "groups": [
-            "Ready Player One",
-            "Super Smash Bros Ultimate",
             "Magic: The Gathering",
             "Sonic Racing: CrossWorlds",
-            "Fall Guys",
             "LEGO Dimensions",
+            "Wreck-It Ralph",
+            "Super Smash Bros Ultimate",
+            "Fall Guys",
             "Sonic the Hedgehog",
-            "Wreck-It Ralph"
+            "Fortnite",
+            "Ready Player One"
         ]
     },
     {
@@ -21737,10 +21761,11 @@
         "origin": "Sonic the Hedgehog",
         "groups": [
             "Magic: The Gathering",
-            "Super Smash Bros Ultimate",
             "Sonic Racing: CrossWorlds",
+            "Super Smash Bros Ultimate",
             "Fall Guys",
-            "Sonic the Hedgehog"
+            "Sonic the Hedgehog",
+            "Fortnite"
         ]
     },
     {
@@ -22226,6 +22251,14 @@
         "groups": [
             "SpongeBob SquarePants",
             "Magic: The Gathering"
+        ]
+    },
+    {
+        "name": "Spyro",
+        "origin": "Spyro",
+        "groups": [
+            "Spyro",
+            "Fortnite"
         ]
     },
     {
@@ -22792,7 +22825,31 @@
         ]
     },
     {
+        "name": "Abigail",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
         "name": "Grandpa",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Grandpa",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Jumino",
         "origin": "Stardew Valley",
         "groups": [
             "Stardew Valley",
@@ -22813,6 +22870,23 @@
         "groups": [
             "Stardew Valley",
             "Among Us"
+        ]
+    },
+    {
+        "name": "Krobus",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Stardew Valley",
+            "Among Us"
+        ]
+    },
+    {
+        "name": "Lewis",
+        "origin": "Stardew Valley",
+        "groups": [
+            "Among Us",
+            "Stardew Valley",
+            "Balatro"
         ]
     },
     {
@@ -22830,47 +22904,6 @@
         "groups": [
             "Stardew Valley",
             "Among Us"
-        ]
-    },
-    {
-        "name": "Abigail",
-        "origin": "Stardew Valley",
-        "groups": [
-            "Stardew Valley",
-            "Among Us"
-        ]
-    },
-    {
-        "name": "Grandpa",
-        "origin": "Stardew Valley",
-        "groups": [
-            "Stardew Valley",
-            "Among Us"
-        ]
-    },
-    {
-        "name": "Jumino",
-        "origin": "Stardew Valley",
-        "groups": [
-            "Stardew Valley",
-            "Among Us"
-        ]
-    },
-    {
-        "name": "Krobus",
-        "origin": "Stardew Valley",
-        "groups": [
-            "Stardew Valley",
-            "Among Us"
-        ]
-    },
-    {
-        "name": "Lewis",
-        "origin": "Stardew Valley",
-        "groups": [
-            "Among Us",
-            "Stardew Valley",
-            "Balatro"
         ]
     },
     {
@@ -25803,11 +25836,35 @@
         ]
     },
     {
+        "name": "Dr. Facilier",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog"
+        ]
+    },
+    {
         "name": "Prince Naveen",
         "origin": "The Princess and the Frog",
         "groups": [
             "The Princess and the Frog",
             "Wreck-It Ralph"
+        ]
+    },
+    {
+        "name": "Prince Naveen",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog",
+            "Wreck-It Ralph"
+        ]
+    },
+    {
+        "name": "Tiana",
+        "origin": "The Princess and the Frog",
+        "groups": [
+            "The Princess and the Frog",
+            "Wreck-It Ralph",
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -25825,29 +25882,6 @@
         "groups": [
             "The Ren & Stimpy Show",
             "Nickelodeon All-Star Brawl"
-        ]
-    },
-        "name": "Dr. Facilier",
-        "origin": "The Princess and the Frog",
-        "groups": [
-            "The Princess and the Frog"
-        ]
-    },
-    {
-        "name": "Prince Naveen",
-        "origin": "The Princess and the Frog",
-        "groups": [
-            "The Princess and the Frog",
-            "Wreck-It Ralph"
-        ]
-    },
-    {
-        "name": "Tiana",
-        "origin": "The Princess and the Frog",
-        "groups": [
-            "The Princess and the Frog",
-            "Wreck-It Ralph",
-            "Disney Dreamlight Valley"
         ]
     },
     {
