@@ -23,11 +23,18 @@ class world:
     def __init__(self) -> None:
         self.groups = []
         self.characters = []
+        self.charactersMin = {}
     def sort_by_groups(self, x):
         string = ""
         for i in sorted(x.groups):
             string += i
         return string
+    def sort_by_r1(self, x):
+        n = []
+        for j in [i.character_names for i in self.groups if i.name in x.groups]:
+            n += [k for k in j if k in [l.name for l in self.charactersMin.keys()]]
+        return len(set(n))
+    
     def add_characters(self, characters: list) -> None:
         for i in characters:
             char = character(i)
@@ -38,6 +45,16 @@ class world:
                 for group_obj in self.groups:
                     if group_obj.name == g:
                         group_obj.add_character(char)
+        self.MinimizeCharacters()
+    def MinimizeCharacters(self):
+        self.characters.sort(key=self.sort_by_groups)
+        chars = {}
+        start = 0
+        for i in range(len(self.characters)):
+            if not set(self.characters[i].groups) == set(self.characters[start].groups):
+                chars[self.characters[start]] = i-start
+                start = i
+        self.charactersMin = chars
     def print_characters(self) -> None:
         for i in self.characters:
             print(f"{i} is in {', '.join(i.groups)} ({len(i.groups)} groups)")
@@ -116,30 +133,29 @@ class world:
             if end in all_characters:
                 return round
     def CheckAllLengths(self):
-        self.characters.sort(key=self.sort_by_groups)
-        chars = {}
         start = 0
         for i in range(len(self.characters)):
             if not set(self.characters[i].groups) == set(self.characters[start].groups):
-                chars[self.characters[start]] = i-start
+                self.charactersMin[self.characters[start]] = i-start
                 start = i
-        print(len(chars.keys()))
+        print(len(self.charactersMin.keys()))
         answer = {1:0,2:0,3:0,4:0,5:0,6:0}
         check = set()
         s = time()
-        for i in combinations(chars.keys(), 2):
+        for i in combinations(sorted(self.charactersMin.keys(), key=self.sort_by_r1), 2):
             if i[0] not in check:
                 print(len(check))
-                print(s-time())
+                print(time()-s)
                 s=time()
-                print(i[0].__str__(), chars[i[0]], i[0].groups , answer)
-                answer[1] += (chars[i[0]]-1)*chars[i[0]]
+                print(self.sort_by_r1(i[0]))
+                print(i[0].__str__(), self.charactersMin[i[0]], i[0].groups , answer)
+                answer[1] += (self.charactersMin[i[0]]-1)*self.charactersMin[i[0]]
                 check.add(i[0])
             a = self.CheckMinLen(i[0], i[1])
             if a in answer.keys():
-                answer[a] += chars[i[0]] *chars[i[1]]
+                answer[a] += self.charactersMin[i[0]] *self.charactersMin[i[1]]
             else:
-                    answer[a] = chars[i[0]] *chars[i[1]]
+                    answer[a] = self.charactersMin[i[0]] *self.charactersMin[i[1]]
         with open("answer.json", "w") as f:
             json.dump(answer, f, indent=4)
             
