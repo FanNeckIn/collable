@@ -49,6 +49,14 @@
         ]
     },
     {
+        "name": "Wendigo",
+        "origin": "99 Nights in the Forest",
+        "groups": [
+            "99 Nights in the Forest",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Bow Kid",
         "origin": "A Hat in Time",
         "groups": [
@@ -9063,6 +9071,14 @@
     },
     {
         "name": "Fernet",
+        "origin": "Kernel Heart",
+        "groups": [
+            "Kernel Heart",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Fernet",
         "origin": "Kernel Hearts",
         "groups": [
             "Kernel Hearts",
@@ -15094,12 +15110,12 @@
         "name": "Pac-Man",
         "origin": "Pac-Man",
         "groups": [
-            "Ready Player One",
-            "Fortnite",
-            "Sonic Racing: CrossWorlds",
-            "Fall Guys",
             "Pac-Man",
-            "Super Smash Bros Ultimate"
+            "Ready Player One",
+            "Super Smash Bros Ultimate",
+            "Fall Guys",
+            "Fortnite",
+            "Sonic Racing: CrossWorlds"
         ]
     },
     {
