@@ -1,6 +1,7 @@
 
 import json
 new_characters = [ 
+
 ]
 
 def add_characters():
