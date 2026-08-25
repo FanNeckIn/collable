@@ -24,6 +24,14 @@
         ]
     },
     {
+        "name": "Cruella De Vil",
+        "origin": "101 Dalmatians",
+        "groups": [
+            "101 Dalmatians",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Cruella de Vil",
         "origin": "101 Dalmatians",
         "groups": [
@@ -225,14 +233,6 @@
         ]
     },
     {
-        "name": "Fenix Wright",
-        "origin": "Ace Attorney",
-        "groups": [
-            "Marvel vs. Capcom 3",
-            "Ace Attorney"
-        ]
-    },
-    {
         "name": "Miles Edgeworth",
         "origin": "Ace Attorney",
         "groups": [
@@ -244,6 +244,7 @@
         "name": "Pheonix Wright",
         "origin": "Ace Attorney",
         "groups": [
+            "Marvel vs. Capcom 3",
             "Among Us",
             "Ace Attorney"
         ]
@@ -424,10 +425,19 @@
         "name": "Aladdin",
         "origin": "Aladdin",
         "groups": [
+            "Aladdin",
             "Disney Infinity",
-            "Disney Dreamlight Valley",
             "KINGDOM HEARTS",
-            "Aladdin"
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Genie",
+        "origin": "Aladdin",
+        "groups": [
+            "Aladdin",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -442,9 +452,10 @@
         "name": "Jafar",
         "origin": "Aladdin",
         "groups": [
-            "Disney Dreamlight Valley",
+            "Disney Speedstorm",
+            "Aladdin",
             "KINGDOM HEARTS",
-            "Aladdin"
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -454,8 +465,9 @@
             "Aladdin",
             "Wreck-It Ralph",
             "Disney Infinity",
+            "KINGDOM HEARTS",
             "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -514,10 +526,11 @@
         "name": "Alice",
         "origin": "Alice in Wonderland",
         "groups": [
-            "Disney Dreamlight Valley",
+            "Disney Infinity",
             "Alice in Wonderland",
             "KINGDOM HEARTS",
-            "Disney Infinity"
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -542,15 +555,17 @@
         "origin": "Alice in Wonderland",
         "groups": [
             "Alice in Wonderland",
-            "Disney Infinity"
+            "Disney Infinity",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Queen of Hearts",
         "origin": "Alice in Wonderland",
         "groups": [
+            "Alice in Wonderland",
             "KINGDOM HEARTS",
-            "Alice in Wonderland"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -1114,6 +1129,14 @@
         "groups": [
             "Super Smash Bros Ultimate",
             "Animal Crossing"
+        ]
+    },
+    {
+        "name": "Jughead",
+        "origin": "Archie Comics",
+        "groups": [
+            "Archie Comics",
+            "Sesame Street"
         ]
     },
     {
@@ -2082,13 +2105,22 @@
         ]
     },
     {
+        "name": "Beast",
+        "origin": "Beauty and the Beast",
+        "groups": [
+            "Beauty and the Beast",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Belle",
         "origin": "Beauty and the Beast",
         "groups": [
             "Wreck-It Ralph",
-            "Disney Dreamlight Valley",
             "Beauty and the Beast",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -2104,8 +2136,9 @@
         "name": "Gaston",
         "origin": "Beauty and the Beast",
         "groups": [
-            "Disney Dreamlight Valley",
-            "Beauty and the Beast"
+            "Beauty and the Beast",
+            "Disney Speedstorm",
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -2291,11 +2324,12 @@
         "name": "Baymax",
         "origin": "Big Hero 6",
         "groups": [
+            "Fortnite",
             "Wreck-It Ralph",
             "Disney Infinity",
+            "Big Hero 6",
             "KINGDOM HEARTS",
-            "Fortnite",
-            "Big Hero 6"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -2309,9 +2343,10 @@
         "name": "Go Go",
         "origin": "Big Hero 6",
         "groups": [
-            "Wreck-It Ralph",
+            "Big Hero 6",
             "KINGDOM HEARTS",
-            "Big Hero 6"
+            "Wreck-It Ralph",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -2319,8 +2354,9 @@
         "origin": "Big Hero 6",
         "groups": [
             "Big Hero 6",
+            "Disney Infinity",
             "KINGDOM HEARTS",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -2328,7 +2364,8 @@
         "origin": "Big Hero 6",
         "groups": [
             "Big Hero 6",
-            "Wreck-It Ralph"
+            "Wreck-It Ralph",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -2344,6 +2381,14 @@
         "origin": "Big Hero 6",
         "groups": [
             "Big Hero 6"
+        ]
+    },
+    {
+        "name": "Yokai",
+        "origin": "Big Hero 6",
+        "groups": [
+            "Big Hero 6",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -2371,6 +2416,14 @@
         ]
     },
     {
+        "name": "Asta",
+        "origin": "Black Clover",
+        "groups": [
+            "Black Clover",
+            "Jump Force"
+        ]
+    },
+    {
         "name": "Penitent",
         "origin": "Blasphemous",
         "groups": [
@@ -2379,15 +2432,24 @@
         ]
     },
     {
-        "name": "Ichigo Kurosaki",
+        "name": "Grimmjow Jaegerjaquez",
         "origin": "Bleach",
         "groups": [
+            "Jump Force",
+            "Bleach"
+        ]
+    },
+    {
+        "name": "Ichigo",
+        "origin": "Bleach",
+        "groups": [
+            "Jump Force",
             "Fortnite",
             "Bleach"
         ]
     },
     {
-        "name": "Kisuke Urahara",
+        "name": "Kisuke",
         "origin": "Bleach",
         "groups": [
             "Bleach",
@@ -2395,7 +2457,7 @@
         ]
     },
     {
-        "name": "Orihime Inoue",
+        "name": "Orihime",
         "origin": "Bleach",
         "groups": [
             "Fortnite",
@@ -2403,7 +2465,40 @@
         ]
     },
     {
-        "name": "Rukia Kuchiki",
+        "name": "Renji",
+        "origin": "Bleach",
+        "groups": [
+            "Jump Force",
+            "Bleach"
+        ]
+    },
+    {
+        "name": "Rukia",
+        "origin": "Bleach",
+        "groups": [
+            "Jump Force",
+            "Fortnite",
+            "Bleach"
+        ]
+    },
+    {
+        "name": "Sosuke",
+        "origin": "Bleach",
+        "groups": [
+            "Jump Force",
+            "Bleach"
+        ]
+    },
+    {
+        "name": "Toshiro",
+        "origin": "Bleach",
+        "groups": [
+            "Jump Force",
+            "Bleach"
+        ]
+    },
+    {
+        "name": "Uryu",
         "origin": "Bleach",
         "groups": [
             "Fortnite",
@@ -2411,27 +2506,12 @@
         ]
     },
     {
-        "name": "The Punisher",
+        "name": "Yoruichi",
         "origin": "Bleach",
         "groups": [
-            "Bleach",
-            "Fortnite"
-        ]
-    },
-    {
-        "name": "Uryu Ishida",
-        "origin": "Bleach",
-        "groups": [
+            "Jump Force",
             "Fortnite",
             "Bleach"
-        ]
-    },
-    {
-        "name": "Yoruichi Shihoin",
-        "origin": "Bleach",
-        "groups": [
-            "Bleach",
-            "Fortnite"
         ]
     },
     {
@@ -2582,9 +2662,10 @@
         "origin": "Brave",
         "groups": [
             "Wreck-It Ralph",
-            "Brave",
+            "Disney Infinity",
             "Disney Dreamlight Valley",
-            "Disney Infinity"
+            "Brave",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -2730,6 +2811,14 @@
         ]
     },
     {
+        "name": "Cruz",
+        "origin": "Cars",
+        "groups": [
+            "Cars",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Doc",
         "origin": "Cars",
         "groups": [
@@ -2756,16 +2845,18 @@
         "name": "Lightning McQueen",
         "origin": "Cars",
         "groups": [
+            "Disney Infinity",
             "Cars",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Mater",
         "origin": "Cars",
         "groups": [
+            "Disney Infinity",
             "Cars",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -3146,9 +3237,10 @@
         "origin": "Cinderella",
         "groups": [
             "Wreck-It Ralph",
-            "Disney Dreamlight Valley",
             "Cinderella",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -3190,6 +3282,14 @@
             "Disney Dreamlight Valley",
             "Cinderella",
             "KINGDOM HEARTS"
+        ]
+    },
+    {
+        "name": "Ryo Saeba",
+        "origin": "City Hunter",
+        "groups": [
+            "City Hunter",
+            "Jump Force"
         ]
     },
     {
@@ -3680,11 +3780,12 @@
         "origin": "DC Comics",
         "groups": [
             "LEGO",
-            "LEGO Dimensions",
-            "Fortnite",
             "MultiVersus",
-            "DC Comics",
-            "Ready Player One"
+            "Sesame Street",
+            "LEGO Dimensions",
+            "Ready Player One",
+            "Fortnite",
+            "DC Comics"
         ]
     },
     {
@@ -3955,7 +4056,8 @@
         "origin": "DC Comics",
         "groups": [
             "DC Comics",
-            "Fortnite"
+            "LEGO Dimensions",
+            "MultiVersus"
         ]
     },
     {
@@ -3963,8 +4065,8 @@
         "origin": "DC Comics",
         "groups": [
             "DC Comics",
-            "LEGO Dimensions",
-            "MultiVersus"
+            "Fortnite",
+            "Sesame Street"
         ]
     },
     {
@@ -4078,6 +4180,14 @@
         "origin": "DOOM",
         "groups": [
             "DOOM"
+        ]
+    },
+    {
+        "name": "Dai",
+        "origin": "Dai's Great Adventure",
+        "groups": [
+            "Dai's Great Adventure",
+            "Jump Force"
         ]
     },
     {
@@ -4217,6 +4327,22 @@
         "groups": [
             "Fortnite",
             "Dead Space"
+        ]
+    },
+    {
+        "name": "Light",
+        "origin": "Death Note",
+        "groups": [
+            "Death Note",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Ryuk",
+        "origin": "Death Note",
+        "groups": [
+            "Death Note",
+            "Jump Force"
         ]
     },
     {
@@ -4536,21 +4662,31 @@
         "name": "Hades",
         "origin": "Disney's Hercules",
         "groups": [
-            "Disney Dreamlight Valley",
             "Fortnite",
-            "Fall Guys",
+            "Disney's Hercules",
             "KINGDOM HEARTS",
-            "Disney's Hercules"
+            "Disney Dreamlight Valley",
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Hercules",
         "origin": "Disney's Hercules",
         "groups": [
-            "Disney Dreamlight Valley",
             "Fortnite",
+            "Disney's Hercules",
             "KINGDOM HEARTS",
-            "Disney's Hercules"
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Meg",
+        "origin": "Disney's Hercules",
+        "groups": [
+            "Disney's Hercules",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -4606,9 +4742,10 @@
         "name": "The Doctor",
         "origin": "Doctor Who",
         "groups": [
+            "Magic: The Gathering",
             "LEGO Dimensions",
-            "Doctor Who",
-            "Magic: The Gathering"
+            "The Muppets",
+            "Doctor Who"
         ]
     },
     {
@@ -4988,19 +5125,29 @@
         ]
     },
     {
+        "name": "Buu",
+        "origin": "Dragon Ball",
+        "groups": [
+            "Jump Force",
+            "Dragon Ball"
+        ]
+    },
+    {
         "name": "Cell",
         "origin": "Dragon Ball",
         "groups": [
-            "Dragon Ball",
-            "Fortnite"
+            "Jump Force",
+            "Fortnite",
+            "Dragon Ball"
         ]
     },
     {
         "name": "Frieza",
         "origin": "Dragon Ball",
         "groups": [
-            "Dragon Ball",
-            "Fortnite"
+            "Jump Force",
+            "Fortnite",
+            "Dragon Ball"
         ]
     },
     {
@@ -5015,32 +5162,36 @@
         "name": "Goku",
         "origin": "Dragon Ball",
         "groups": [
-            "Dragon Ball",
-            "Fortnite"
+            "Jump Force",
+            "Fortnite",
+            "Dragon Ball"
         ]
     },
     {
         "name": "Piccolo",
         "origin": "Dragon Ball",
         "groups": [
-            "Dragon Ball",
-            "Fortnite"
+            "Jump Force",
+            "Fortnite",
+            "Dragon Ball"
         ]
     },
     {
         "name": "Trunks",
         "origin": "Dragon Ball",
         "groups": [
-            "Dragon Ball",
-            "Fortnite"
+            "Jump Force",
+            "Fortnite",
+            "Dragon Ball"
         ]
     },
     {
         "name": "Vegeta",
         "origin": "Dragon Ball",
         "groups": [
-            "Dragon Ball",
-            "Fortnite"
+            "Jump Force",
+            "Fortnite",
+            "Dragon Ball"
         ]
     },
     {
@@ -5579,20 +5730,30 @@
         ]
     },
     {
+        "name": "Isabela",
+        "origin": "Encanto",
+        "groups": [
+            "Encanto",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Luisa",
         "origin": "Encanto",
         "groups": [
             "Fall Guys",
-            "Encanto"
+            "Encanto",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Mirabel",
         "origin": "Encanto",
         "groups": [
-            "Disney Dreamlight Valley",
             "Fall Guys",
-            "Encanto"
+            "Encanto",
+            "Disney Speedstorm",
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -7100,6 +7261,14 @@
         ]
     },
     {
+        "name": "Kenshiro",
+        "origin": "Fist of the North Star",
+        "groups": [
+            "Fist of the North Star",
+            "Jump Force"
+        ]
+    },
+    {
         "name": "Glitchtrap",
         "origin": "Five Nights at Freddys",
         "groups": [
@@ -7260,8 +7429,9 @@
             "Frozen",
             "Wreck-It Ralph",
             "Disney Infinity",
+            "KINGDOM HEARTS",
             "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -7271,17 +7441,27 @@
             "Frozen",
             "Wreck-It Ralph",
             "Disney Infinity",
+            "KINGDOM HEARTS",
             "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Hans",
+        "origin": "Frozen",
+        "groups": [
+            "Frozen",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Kristoff",
         "origin": "Frozen",
         "groups": [
-            "Frozen",
+            "Disney Speedstorm",
             "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Frozen"
         ]
     },
     {
@@ -7297,9 +7477,10 @@
         "origin": "Frozen",
         "groups": [
             "Frozen",
-            "Disney Dreamlight Valley",
+            "Disney Infinity",
             "KINGDOM HEARTS",
-            "Disney Infinity"
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -8485,6 +8666,14 @@
         ]
     },
     {
+        "name": "Mabel",
+        "origin": "Hoppers",
+        "groups": [
+            "Hoppers",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Tom Lizard",
         "origin": "Hoppers",
         "groups": [
@@ -8564,6 +8753,54 @@
         "groups": [
             "Wreck-It Ralph",
             "House of the Dead"
+        ]
+    },
+    {
+        "name": "Bisky",
+        "origin": "Hunter x Hunter",
+        "groups": [
+            "Hunter x Hunter",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Gon",
+        "origin": "Hunter x Hunter",
+        "groups": [
+            "Hunter x Hunter",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Hisoka",
+        "origin": "Hunter x Hunter",
+        "groups": [
+            "Hunter x Hunter",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Killua",
+        "origin": "Hunter x Hunter",
+        "groups": [
+            "Hunter x Hunter",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Kurapika",
+        "origin": "Hunter x Hunter",
+        "groups": [
+            "Hunter x Hunter",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Meruem",
+        "origin": "Hunter x Hunter",
+        "groups": [
+            "Hunter x Hunter",
+            "Jump Force"
         ]
     },
     {
@@ -8668,8 +8905,17 @@
         "origin": "Inside Out",
         "groups": [
             "Fall Guys",
+            "Disney Infinity",
             "Inside Out",
-            "Disney Infinity"
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Anxiety",
+        "origin": "Inside Out",
+        "groups": [
+            "Inside Out",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -8685,8 +8931,17 @@
         "origin": "Inside Out",
         "groups": [
             "Fall Guys",
+            "Disney Infinity",
             "Inside Out",
-            "Disney Infinity"
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Ennui",
+        "origin": "Inside Out",
+        "groups": [
+            "Inside Out",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -8694,28 +8949,31 @@
         "origin": "Inside Out",
         "groups": [
             "Fall Guys",
+            "Disney Infinity",
             "Inside Out",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Joy",
         "origin": "Inside Out",
         "groups": [
+            "Disney Infinity",
+            "Inside Out",
             "Disney Dreamlight Valley",
             "Fall Guys",
-            "Inside Out",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Sadness",
         "origin": "Inside Out",
         "groups": [
+            "Disney Infinity",
+            "Inside Out",
             "Disney Dreamlight Valley",
             "Fall Guys",
-            "Inside Out",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -8901,6 +9159,30 @@
         ]
     },
     {
+        "name": "Dio",
+        "origin": "JoJo's Bizarre Adventure",
+        "groups": [
+            "Jump Force",
+            "JoJo's Bizarre Adventure"
+        ]
+    },
+    {
+        "name": "Giorno",
+        "origin": "JoJo's Bizarre Adventure",
+        "groups": [
+            "Jump Force",
+            "JoJo's Bizarre Adventure"
+        ]
+    },
+    {
+        "name": "Jotaro",
+        "origin": "JoJo's Bizarre Adventure",
+        "groups": [
+            "Jump Force",
+            "JoJo's Bizarre Adventure"
+        ]
+    },
+    {
         "name": "John Wick",
         "origin": "John Wick",
         "groups": [
@@ -8986,6 +9268,34 @@
         "groups": [
             "Jujutsu Kaisen",
             "Fortnite"
+        ]
+    },
+    {
+        "name": "Galena",
+        "origin": "Jump Force",
+        "groups": [
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Kane",
+        "origin": "Jump Force",
+        "groups": [
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Navigator",
+        "origin": "Jump Force",
+        "groups": [
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Prometheus",
+        "origin": "Jump Force",
+        "groups": [
+            "Jump Force"
         ]
     },
     {
@@ -9253,6 +9563,7 @@
         "origin": "KPop Demon Hunters",
         "groups": [
             "Fortnite",
+            "Overcooked",
             "KPop Demon Hunters"
         ]
     },
@@ -10225,6 +10536,14 @@
         ]
     },
     {
+        "name": "Angel",
+        "origin": "Lilo and Stitch",
+        "groups": [
+            "Lilo and Stitch",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Captain Gantu",
         "origin": "Lilo and Stitch",
         "groups": [
@@ -10241,10 +10560,27 @@
         ]
     },
     {
+        "name": "Gantu",
+        "origin": "Lilo and Stitch",
+        "groups": [
+            "Lilo and Stitch",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Jumba",
+        "origin": "Lilo and Stitch",
+        "groups": [
+            "Lilo and Stitch",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Lilo",
         "origin": "Lilo and Stitch",
         "groups": [
-            "Lilo and Stitch"
+            "Lilo and Stitch",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -10260,10 +10596,11 @@
         "origin": "Lilo and Stitch",
         "groups": [
             "Lilo and Stitch",
-            "Fall Guys",
             "Disney Infinity",
+            "KINGDOM HEARTS",
             "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -13473,150 +13810,159 @@
     },
     {
         "name": "Chip",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Mickey and Friends",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Clarabelle Cow",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
             "Wreck-It Ralph",
-            "Mickey Mouse"
+            "Mickey and Friends"
         ]
     },
     {
         "name": "Daisy",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
-            "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Disney Speedstorm",
+            "KINGDOM HEARTS",
+            "Mickey and Friends",
+            "Disney Dreamlight Valley"
         ]
     },
     {
         "name": "Dale",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Mickey and Friends",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Dewey",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
+            "Mickey and Friends",
             "KINGDOM HEARTS"
         ]
     },
     {
         "name": "Donald Duck",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
+            "Fortnite",
             "Disney Infinity",
-            "Mickey Mouse",
             "KINGDOM HEARTS",
             "Disney Dreamlight Valley",
-            "Fortnite"
+            "Mickey and Friends",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Figaro",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
+            "Mickey and Friends",
             "Disney Dreamlight Valley"
         ]
     },
     {
         "name": "Goofy",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
-            "Disney Dreamlight Valley",
+            "Fortnite",
             "KINGDOM HEARTS",
-            "Fortnite"
+            "Disney Dreamlight Valley",
+            "Mickey and Friends",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Huey",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
+            "Mickey and Friends",
             "KINGDOM HEARTS"
         ]
     },
     {
         "name": "Humphrey the Bear",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
             "Wreck-It Ralph",
-            "Mickey Mouse"
+            "Mickey and Friends"
         ]
     },
     {
         "name": "J. Audubon Woodlore",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
             "Wreck-It Ralph",
-            "Mickey Mouse"
+            "Mickey and Friends"
         ]
     },
     {
         "name": "Louie",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
+            "Mickey and Friends",
             "KINGDOM HEARTS"
         ]
     },
     {
         "name": "Mickey Mouse",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Kingdm Hearts",
-            "Disney Infinity",
-            "Disney Dreamlight Valley",
-            "Mickey Mouse",
             "Fortnite",
-            "The Sword in the Stone"
+            "Disney Infinity",
+            "Kingdm Hearts",
+            "Disney Dreamlight Valley",
+            "The Sword in the Stone",
+            "Mickey and Friends",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Minnie Mouse",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
-            "Disney Dreamlight Valley",
+            "Disney Infinity",
             "KINGDOM HEARTS",
-            "Disney Infinity"
+            "Disney Dreamlight Valley",
+            "Mickey and Friends",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Pete",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Mickey and Friends",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Pluto",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
+            "Mickey and Friends",
             "Disney Dreamlight Valley",
             "KINGDOM HEARTS"
         ]
     },
     {
         "name": "Scrooge McDuck",
-        "origin": "Mickey Mouse",
+        "origin": "Mickey and Friends",
         "groups": [
-            "Mickey Mouse",
+            "Disney Speedstorm",
+            "Mickey and Friends",
             "Disney Dreamlight Valley"
         ]
     },
@@ -13839,6 +14185,14 @@
         ]
     },
     {
+        "name": "Fred",
+        "origin": "Mister Roger's Neighborhood",
+        "groups": [
+            "Mister Roger's Neighborhood",
+            "Sesame Street"
+        ]
+    },
+    {
         "name": "Heihei",
         "origin": "Moana",
         "groups": [
@@ -13850,17 +14204,19 @@
         "name": "Maui",
         "origin": "Moana",
         "groups": [
-            "Disney Dreamlight Valley",
-            "Moana"
+            "Disney Speedstorm",
+            "Moana",
+            "Disney Dreamlight Valley"
         ]
     },
     {
         "name": "Moana",
         "origin": "Moana",
         "groups": [
+            "Disney Speedstorm",
             "Wreck-It Ralph",
-            "Disney Dreamlight Valley",
-            "Moana"
+            "Moana",
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -14027,6 +14383,14 @@
         ]
     },
     {
+        "name": "Celia Mae",
+        "origin": "Monsters Inc.",
+        "groups": [
+            "Monsters Inc.",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "George Sanderson",
         "origin": "Monsters Inc.",
         "groups": [
@@ -14038,32 +14402,35 @@
         "name": "Mike",
         "origin": "Monsters Inc.",
         "groups": [
+            "Disney Infinity",
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
             "Monsters Inc.",
             "Fall Guys",
-            "Disney Infinity",
-            "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Randall",
         "origin": "Monsters Inc.",
         "groups": [
-            "Monsters Inc.",
+            "Disney Infinity",
             "KINGDOM HEARTS",
+            "Monsters Inc.",
             "Fall Guys",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Sulley",
         "origin": "Monsters Inc.",
         "groups": [
-            "Monsters Inc.",
-            "Fall Guys",
             "Disney Infinity",
             "KINGDOM HEARTS",
-            "Disney Dreamlight Valley"
+            "Disney Dreamlight Valley",
+            "Monsters Inc.",
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -14257,9 +14624,10 @@
         "groups": [
             "Wreck-It Ralph",
             "Disney Infinity",
-            "Disney Dreamlight Valley",
             "KINGDOM HEARTS",
-            "Mulan"
+            "Mulan",
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -14268,6 +14636,22 @@
         "groups": [
             "Disney Dreamlight Valley",
             "Mulan"
+        ]
+    },
+    {
+        "name": "Shan Yu",
+        "origin": "Mulan",
+        "groups": [
+            "Mulan",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Shang",
+        "origin": "Mulan",
+        "groups": [
+            "Mulan",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -14297,9 +14681,10 @@
         "name": "All Might",
         "origin": "My Hero Academia",
         "groups": [
-            "My Hero Academia",
             "Overwatch",
-            "Fortnite"
+            "My Hero Academia",
+            "Fortnite",
+            "Jump Force"
         ]
     },
     {
@@ -14307,7 +14692,8 @@
         "origin": "My Hero Academia",
         "groups": [
             "My Hero Academia",
-            "Fortnite"
+            "Fortnite",
+            "Jump Force"
         ]
     },
     {
@@ -14322,9 +14708,10 @@
         "name": "Deku",
         "origin": "My Hero Academia",
         "groups": [
-            "My Hero Academia",
             "Overwatch",
-            "Fortnite"
+            "My Hero Academia",
+            "Fortnite",
+            "Jump Force"
         ]
     },
     {
@@ -14359,6 +14746,14 @@
             "My Hero Academia",
             "Overwatch",
             "Fortnite"
+        ]
+    },
+    {
+        "name": "Shoto",
+        "origin": "My Hero Academia",
+        "groups": [
+            "My Hero Academia",
+            "Jump Force"
         ]
     },
     {
@@ -14526,11 +14921,20 @@
         ]
     },
     {
+        "name": "Boruto",
+        "origin": "Naruto",
+        "groups": [
+            "Naruto",
+            "Jump Force"
+        ]
+    },
+    {
         "name": "Gaara",
         "origin": "Naruto",
         "groups": [
+            "Naruto",
             "Fortnite",
-            "Naruto"
+            "Jump Force"
         ]
     },
     {
@@ -14550,19 +14954,37 @@
         ]
     },
     {
+        "name": "Kaguya",
+        "origin": "Naruto",
+        "groups": [
+            "Naruto",
+            "Jump Force"
+        ]
+    },
+    {
         "name": "Kakashi",
         "origin": "Naruto",
         "groups": [
+            "Naruto",
             "Fortnite",
-            "Naruto"
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Madara",
+        "origin": "Naruto",
+        "groups": [
+            "Naruto",
+            "Jump Force"
         ]
     },
     {
         "name": "Naruto",
         "origin": "Naruto",
         "groups": [
+            "Naruto",
             "Fortnite",
-            "Naruto"
+            "Jump Force"
         ]
     },
     {
@@ -14585,8 +15007,9 @@
         "name": "Sasuke",
         "origin": "Naruto",
         "groups": [
+            "Naruto",
             "Fortnite",
-            "Naruto"
+            "Jump Force"
         ]
     },
     {
@@ -14905,6 +15328,62 @@
         ]
     },
     {
+        "name": "Blackbeard",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Hancock",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Law",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Luffy",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Sabo",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Sanji",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Zoro",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Jump Force"
+        ]
+    },
+    {
         "name": "Blast",
         "origin": "One Punch Man",
         "groups": [
@@ -15019,11 +15498,36 @@
         ]
     },
     {
+        "name": "Ortensia",
+        "origin": "Oswald the Lucky Rabbit",
+        "groups": [
+            "Oswald the Lucky Rabbit",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Oswald",
         "origin": "Oswald the Lucky Rabbit",
         "groups": [
-            "Disney Dreamlight Valley",
-            "Oswald the Lucky Rabbit"
+            "Oswald the Lucky Rabbit",
+            "Disney Speedstorm",
+            "Disney Dreamlight Valley"
+        ]
+    },
+    {
+        "name": "Chef",
+        "origin": "Overcooked",
+        "groups": [
+            "Overcooked",
+            "Dunk Dunk"
+        ]
+    },
+    {
+        "name": "The Onion King",
+        "origin": "Overcooked",
+        "groups": [
+            "Overcooked",
+            "Dunk Dunk"
         ]
     },
     {
@@ -15657,9 +16161,10 @@
         "name": "Captain Hook",
         "origin": "Peter Pan",
         "groups": [
+            "Fortnite",
             "KINGDOM HEARTS",
             "Peter Pan",
-            "Fortnite"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -15674,20 +16179,21 @@
         "name": "Peter Pan",
         "origin": "Peter Pan",
         "groups": [
-            "Wreck-It Ralph",
-            "Disney Infinity",
             "Disney Dreamlight Valley",
-            "KINGDOM HEARTS",
-            "Peter Pan"
+            "Peter Pan",
+            "KINGDOM HEARTS"
         ]
     },
     {
         "name": "Peter Pan",
         "origin": "Peter Pan",
         "groups": [
-            "Disney Dreamlight Valley",
             "Peter Pan",
-            "KINGDOM HEARTS"
+            "Wreck-It Ralph",
+            "Disney Infinity",
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -15707,6 +16213,14 @@
             "Disney Dreamlight Valley",
             "KINGDOM HEARTS",
             "Peter Pan"
+        ]
+    },
+    {
+        "name": "Tinker Pan",
+        "origin": "Peter Pan",
+        "groups": [
+            "Peter Pan",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -15997,6 +16511,14 @@
         ]
     },
     {
+        "name": "Pink Panther",
+        "origin": "Pink Panther",
+        "groups": [
+            "Pink Panther",
+            "Sesame Street"
+        ]
+    },
+    {
         "name": "Geppetto",
         "origin": "Pinocchio",
         "groups": [
@@ -16024,48 +16546,61 @@
         "name": "Captain Barbossa",
         "origin": "Pirates of the Caribbean",
         "groups": [
+            "Fortnite",
+            "Disney Infinity",
             "Pirates of the Caribbean",
             "KINGDOM HEARTS",
-            "Fortnite"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Davy Jones",
         "origin": "Pirates of the Caribbean",
         "groups": [
-            "Fall Guys",
+            "Fortnite",
             "Disney Infinity",
             "KINGDOM HEARTS",
-            "Fortnite",
-            "Pirates of the Caribbean"
+            "Pirates of the Caribbean",
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Elizabeth Swann",
         "origin": "Pirates of the Caribbean",
         "groups": [
+            "Fortnite",
             "Pirates of the Caribbean",
             "KINGDOM HEARTS",
-            "Fortnite"
-        ]
-    },
-    {
-        "name": "Hector Barbarossa",
-        "origin": "Pirates of the Caribbean",
-        "groups": [
-            "Pirates of the Caribbean",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Jack Sparrow",
         "origin": "Pirates of the Caribbean",
         "groups": [
-            "Fall Guys",
+            "Fortnite",
             "Disney Infinity",
             "KINGDOM HEARTS",
-            "Fortnite",
-            "Pirates of the Caribbean"
+            "Pirates of the Caribbean",
+            "Fall Guys",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Tia Dalma",
+        "origin": "Pirates of the Caribbean",
+        "groups": [
+            "Pirates of the Caribbean",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Will Turner",
+        "origin": "Pirates of the Caribbean",
+        "groups": [
+            "Pirates of the Caribbean",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -21296,6 +21831,22 @@
         ]
     },
     {
+        "name": "Kenshin",
+        "origin": "Rurouni Kenshin",
+        "groups": [
+            "Rurouni Kenshin",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Shishio",
+        "origin": "Rurouni Kenshin",
+        "groups": [
+            "Rurouni Kenshin",
+            "Jump Force"
+        ]
+    },
+    {
         "name": "Rusty Slugger",
         "origin": "Rusty's Real Deal Baseball",
         "groups": [
@@ -21325,6 +21876,22 @@
         "groups": [
             "Fall Guys",
             "Sackboy"
+        ]
+    },
+    {
+        "name": "Seiya",
+        "origin": "Saint Seiya",
+        "groups": [
+            "Saint Seiya",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Shiryu",
+        "origin": "Saint Seiya",
+        "groups": [
+            "Saint Seiya",
+            "Jump Force"
         ]
     },
     {
@@ -21549,10 +22116,28 @@
         ]
     },
     {
+        "name": "Bert",
+        "origin": "Sesame Street",
+        "groups": [
+            "Sesame Street",
+            "The Muppets"
+        ]
+    },
+    {
+        "name": "Big Bird",
+        "origin": "Sesame Street",
+        "groups": [
+            "Sesame Street",
+            "The Muppets",
+            "Mister Roger's Neighborhood"
+        ]
+    },
+    {
         "name": "Cookie Monster",
         "origin": "Sesame Street",
         "groups": [
-            "Sesame Street"
+            "Sesame Street",
+            "The Muppets"
         ]
     },
     {
@@ -21563,10 +22148,26 @@
         ]
     },
     {
+        "name": "Ernie",
+        "origin": "Sesame Street",
+        "groups": [
+            "Sesame Street",
+            "The Muppets"
+        ]
+    },
+    {
         "name": "Oscar the Grouch",
         "origin": "Sesame Street",
         "groups": [
             "Sesame Street"
+        ]
+    },
+    {
+        "name": "Sam The Robot",
+        "origin": "Sesame Street",
+        "groups": [
+            "Sesame Street",
+            "Marvel Comics"
         ]
     },
     {
@@ -21862,20 +22463,22 @@
         "name": "Aurora",
         "origin": "Sleeping Beauty",
         "groups": [
+            "Sleeping Beauty",
+            "Disney Speedstorm",
             "Wreck-It Ralph",
-            "Disney Dreamlight Valley",
-            "Sleeping Beauty"
+            "Disney Dreamlight Valley"
         ]
     },
     {
         "name": "Maleficent",
         "origin": "Sleeping Beauty",
         "groups": [
-            "Fall Guys",
-            "Disney Infinity",
+            "Fortnite",
             "Sleeping Beauty",
+            "Disney Infinity",
             "Disney Dreamlight Valley",
-            "Fortnite"
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -21963,16 +22566,18 @@
         "name": "Snow White",
         "origin": "Snow White",
         "groups": [
-            "Wreck-It Ralph",
-            "Disney Dreamlight Valley",
             "Snow White",
-            "KINGDOM HEARTS"
+            "Wreck-It Ralph",
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "The Evil Queen",
         "origin": "Snow White",
         "groups": [
+            "Disney Speedstorm",
             "KINGDOM HEARTS",
             "Snow White"
         ]
@@ -22961,10 +23566,12 @@
         "name": "C3PO",
         "origin": "Star Wars",
         "groups": [
-            "LEGO",
             "Wreck-It Ralph",
+            "Phineas and Ferb",
+            "The Muppets",
             "Star Wars",
-            "Phineas and Ferb"
+            "LEGO",
+            "Sesame Street"
         ]
     },
     {
@@ -22979,13 +23586,14 @@
         "name": "Chewbacca",
         "origin": "Star Wars",
         "groups": [
-            "Star Wars",
             "Phineas and Ferb",
+            "The Muppets",
+            "Star Wars",
             "LEGO",
-            "Fall Guys",
-            "Disney Infinity",
             "Fortnite",
-            "Brawlhalla"
+            "Brawlhalla",
+            "Fall Guys",
+            "Disney Infinity"
         ]
     },
     {
@@ -23136,10 +23744,11 @@
         "origin": "Star Wars",
         "groups": [
             "Phineas and Ferb",
+            "The Muppets",
             "Star Wars",
-            "Disney Infinity",
             "Fortnite",
-            "Brawlhalla"
+            "Brawlhalla",
+            "Disney Infinity"
         ]
     },
     {
@@ -23224,11 +23833,13 @@
         "name": "R2D2",
         "origin": "Star Wars",
         "groups": [
-            "Phineas and Ferb",
-            "Star Wars",
             "Wreck-It Ralph",
-            "Fall Guys",
-            "Disney Dreamlight Valley"
+            "Disney Dreamlight Valley",
+            "Phineas and Ferb",
+            "The Muppets",
+            "Star Wars",
+            "Sesame Street",
+            "Fall Guys"
         ]
     },
     {
@@ -23460,7 +24071,8 @@
         "groups": [
             "Stranger Things",
             "Magic: The Gathering",
-            "Fortnite"
+            "Fortnite",
+            "Overcooked"
         ]
     },
     {
@@ -23594,17 +24206,10 @@
         ]
     },
     {
-        "name": "Chun Lee",
-        "origin": "Street Fighter",
-        "groups": [
-            "Fall Guys",
-            "Street Fighter"
-        ]
-    },
-    {
         "name": "Chun Li",
         "origin": "Street Fighter",
         "groups": [
+            "Fall Guys",
             "Marvel vs. Capcom 3",
             "Wreck-It Ralph",
             "Super Smash Bros Ultimate",
@@ -24144,28 +24749,31 @@
         "name": "Quorra",
         "origin": "TRON",
         "groups": [
-            "KINGDOM HEARTS",
             "TRON",
+            "Disney Infinity",
+            "KINGDOM HEARTS",
             "Fall Guys",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Rinzler",
         "origin": "TRON",
         "groups": [
-            "KINGDOM HEARTS",
+            "Fall Guys",
             "TRON",
-            "Fall Guys"
+            "KINGDOM HEARTS",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Sam",
         "origin": "TRON",
         "groups": [
-            "KINGDOM HEARTS",
+            "Disney Infinity",
             "TRON",
-            "Disney Infinity"
+            "KINGDOM HEARTS",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -24183,6 +24791,14 @@
             "KINGDOM HEARTS",
             "TRON",
             "Fall Guys"
+        ]
+    },
+    {
+        "name": "Zuse",
+        "origin": "TRON",
+        "groups": [
+            "TRON",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -24221,9 +24837,10 @@
         "name": "Mother Gothel",
         "origin": "Tangled",
         "groups": [
+            "Disney Speedstorm",
+            "KINGDOM HEARTS",
             "Tangled",
-            "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -24242,6 +24859,14 @@
             "Disney Infinity",
             "Disney Dreamlight Valley",
             "KINGDOM HEARTS"
+        ]
+    },
+    {
+        "name": "Repunzel",
+        "origin": "Tangled",
+        "groups": [
+            "Tangled",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -24931,6 +25556,22 @@
         ]
     },
     {
+        "name": "Kuzco",
+        "origin": "The Emperor's New Groove",
+        "groups": [
+            "The Emperor's New Groove",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Yzma",
+        "origin": "The Emperor's New Groove",
+        "groups": [
+            "The Emperor's New Groove",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "A.J.",
         "origin": "The Fairly OddParents",
         "groups": [
@@ -25131,6 +25772,14 @@
         ]
     },
     {
+        "name": "Dash",
+        "origin": "The Incredibles",
+        "groups": [
+            "The Incredibles",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Edna",
         "origin": "The Incredibles",
         "groups": [
@@ -25142,33 +25791,45 @@
         "name": "Frozone",
         "origin": "The Incredibles",
         "groups": [
-            "The Incredibles",
             "Fall Guys",
-            "Fortnite"
+            "Fortnite",
+            "Disney Speedstorm",
+            "The Incredibles"
         ]
     },
     {
         "name": "Mr. Incredible",
         "origin": "The Incredibles",
         "groups": [
-            "The Incredibles",
-            "Fortnite"
+            "Fortnite",
+            "Disney Speedstorm",
+            "The Incredibles"
         ]
     },
     {
         "name": "Mrs. Incredible",
         "origin": "The Incredibles",
         "groups": [
-            "The Incredibles",
-            "Fortnite"
+            "Fortnite",
+            "Disney Speedstorm",
+            "The Incredibles"
         ]
     },
     {
         "name": "Syndrome",
         "origin": "The Incredibles",
         "groups": [
+            "Fall Guys",
+            "Disney Speedstorm",
+            "The Incredibles"
+        ]
+    },
+    {
+        "name": "Violet",
+        "origin": "The Incredibles",
+        "groups": [
             "The Incredibles",
-            "Fall Guys"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -25192,8 +25853,9 @@
         "origin": "The Jungle Book",
         "groups": [
             "Fall Guys",
+            "Disney Infinity",
             "The Jungle Book",
-            "Disney Infinity"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -25209,7 +25871,8 @@
         "origin": "The Jungle Book",
         "groups": [
             "Fall Guys",
-            "The Jungle Book"
+            "The Jungle Book",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -25950,9 +26613,10 @@
         "origin": "The Little Mermaid",
         "groups": [
             "Wreck-It Ralph",
-            "Disney Dreamlight Valley",
             "The Little Mermaid",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -25983,8 +26647,9 @@
         "name": "King Triton",
         "origin": "The Little Mermaid",
         "groups": [
+            "The Little Mermaid",
             "KINGDOM HEARTS",
-            "The Little Mermaid"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -25993,6 +26658,14 @@
         "groups": [
             "Disney Dreamlight Valley",
             "The Little Mermaid"
+        ]
+    },
+    {
+        "name": "Prince Eric",
+        "origin": "The Little Mermaid",
+        "groups": [
+            "The Little Mermaid",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -26015,9 +26688,10 @@
         "name": "Ursula",
         "origin": "The Little Mermaid",
         "groups": [
-            "Disney Dreamlight Valley",
+            "Disney Speedstorm",
             "The Little Mermaid",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -26475,6 +27149,14 @@
         ]
     },
     {
+        "name": "Fozzie Bear",
+        "origin": "The Muppets",
+        "groups": [
+            "The Muppets",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Gonzo",
         "origin": "The Muppets",
         "groups": [
@@ -26483,18 +27165,12 @@
         ]
     },
     {
-        "name": "Kermit",
-        "origin": "The Muppets",
-        "groups": [
-            "The Muppets",
-            "Fall Guys"
-        ]
-    },
-    {
-        "name": "Kermit The Frog",
+        "name": "Kermit the Frog",
         "origin": "The Muppets",
         "groups": [
             "Sesame Street",
+            "Fall Guys",
+            "Disney Speedstorm",
             "The Muppets"
         ]
     },
@@ -26502,9 +27178,12 @@
         "name": "Miss Piggy",
         "origin": "The Muppets",
         "groups": [
-            "Ready Player One",
+            "Sesame Street",
             "The Muppets",
-            "Fall Guys"
+            "Ready Player One",
+            "Fall Guys",
+            "Phineas and Ferb",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -26513,6 +27192,14 @@
         "groups": [
             "The Muppets",
             "Fall Guys"
+        ]
+    },
+    {
+        "name": "Swedish Chef",
+        "origin": "The Muppets",
+        "groups": [
+            "The Muppets",
+            "Overcooked"
         ]
     },
     {
@@ -26536,19 +27223,21 @@
         "origin": "The Nightmare Before Christmas",
         "groups": [
             "The Nightmare Before Christmas",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Jack Skellington",
         "origin": "The Nightmare Before Christmas",
         "groups": [
-            "Fall Guys",
-            "Disney Infinity",
-            "Disney Dreamlight Valley",
-            "KINGDOM HEARTS",
             "Fortnite",
-            "The Nightmare Before Christmas"
+            "Disney Infinity",
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
+            "The Nightmare Before Christmas",
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -26564,18 +27253,20 @@
         "origin": "The Nightmare Before Christmas",
         "groups": [
             "The Nightmare Before Christmas",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Sally",
         "origin": "The Nightmare Before Christmas",
         "groups": [
-            "Fall Guys",
-            "Disney Dreamlight Valley",
-            "KINGDOM HEARTS",
             "Fortnite",
-            "The Nightmare Before Christmas"
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley",
+            "The Nightmare Before Christmas",
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -27190,6 +27881,16 @@
         ]
     },
     {
+        "name": "Glinda / Wicked Witch of the West",
+        "origin": "The Wizard of Oz",
+        "groups": [
+            "Sesame Street",
+            "The Wizard of Oz",
+            "Wicked",
+            "Time Princess"
+        ]
+    },
+    {
         "name": "Scarecrow",
         "origin": "The Wizard of Oz",
         "groups": [
@@ -27339,24 +28040,42 @@
         ]
     },
     {
+        "name": "Bo Peep",
+        "origin": "Toy Story",
+        "groups": [
+            "Toy Story",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Buzz Lightyear",
         "origin": "Toy Story",
         "groups": [
+            "Fortnite",
             "Wreck-It Ralph",
-            "Fall Guys",
-            "Disney Infinity",
             "Toy Story",
-            "Disney Dreamlight Valley",
+            "Disney Infinity",
             "KINGDOM HEARTS",
-            "Fortnite"
+            "Disney Dreamlight Valley",
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Emperor Zurg",
         "origin": "Toy Story",
         "groups": [
+            "Fortnite",
             "Toy Story",
-            "Fortnite"
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Forky",
+        "origin": "Toy Story",
+        "groups": [
+            "Toy Story",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -27376,6 +28095,14 @@
         ]
     },
     {
+        "name": "Jessie",
+        "origin": "Toy Story",
+        "groups": [
+            "Toy Story",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Jessy",
         "origin": "Toy Story",
         "groups": [
@@ -27384,22 +28111,32 @@
         ]
     },
     {
-        "name": "Rex",
+        "name": "Lotso",
         "origin": "Toy Story",
         "groups": [
             "Toy Story",
-            "KINGDOM HEARTS"
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Rex",
+        "origin": "Toy Story",
+        "groups": [
+            "KINGDOM HEARTS",
+            "Toy Story",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Woody",
         "origin": "Toy Story",
         "groups": [
-            "Fall Guys",
-            "Disney Infinity",
             "Toy Story",
+            "Disney Infinity",
+            "KINGDOM HEARTS",
             "Disney Dreamlight Valley",
-            "KINGDOM HEARTS"
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -27667,6 +28404,22 @@
         ]
     },
     {
+        "name": "Carl",
+        "origin": "Up",
+        "groups": [
+            "Up",
+            "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Russel",
+        "origin": "Up",
+        "groups": [
+            "Up",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Poe Ratcho",
         "origin": "Vampire Survivors",
         "groups": [
@@ -27778,6 +28531,7 @@
         "name": "EVE",
         "origin": "WALL-E",
         "groups": [
+            "Disney Speedstorm",
             "Wreck-It Ralph",
             "WALL-E",
             "Disney Dreamlight Valley"
@@ -27795,6 +28549,7 @@
         "name": "WALL-E",
         "origin": "WALL-E",
         "groups": [
+            "Disney Speedstorm",
             "WALL-E",
             "Disney Dreamlight Valley"
         ]
@@ -27921,6 +28676,14 @@
         ]
     },
     {
+        "name": "Wayne",
+        "origin": "Wayne's World",
+        "groups": [
+            "Wayne's World",
+            "Sesame Street"
+        ]
+    },
+    {
         "name": "Ansi",
         "origin": "Welcome to the Wayne",
         "groups": [
@@ -27952,15 +28715,6 @@
             "Wicked",
             "Time Princess",
             "LEGO Dimensions"
-        ]
-    },
-    {
-        "name": "Glinda",
-        "origin": "Wicked",
-        "groups": [
-            "The Wizard of Oz",
-            "Wicked",
-            "Time Princess"
         ]
     },
     {
@@ -28008,9 +28762,10 @@
         "origin": "Winnie the Pooh",
         "groups": [
             "Wreck-It Ralph",
+            "KINGDOM HEARTS",
             "Disney Dreamlight Valley",
             "Winnie the Pooh",
-            "KINGDOM HEARTS"
+            "Disney Speedstorm"
         ]
     },
     {
@@ -28050,18 +28805,20 @@
         "name": "Tigger",
         "origin": "Winnie the Pooh",
         "groups": [
-            "Disney Dreamlight Valley",
+            "Disney Speedstorm",
             "Winnie the Pooh",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley"
         ]
     },
     {
         "name": "Winnie the Pooh",
         "origin": "Winnie the Pooh",
         "groups": [
-            "Disney Dreamlight Valley",
+            "Disney Speedstorm",
             "Winnie the Pooh",
-            "KINGDOM HEARTS"
+            "KINGDOM HEARTS",
+            "Disney Dreamlight Valley"
         ]
     },
     {
@@ -28166,38 +28923,42 @@
         ]
     },
     {
-        "name": "Fix-it Felix",
+        "name": "Fix-It Felix",
         "origin": "Wreck-It Ralph",
         "groups": [
-            "Wreck-It Ralph"
+            "Wreck-It Ralph",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "King Candy",
         "origin": "Wreck-It Ralph",
         "groups": [
-            "Wreck-It Ralph"
+            "Wreck-It Ralph",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Venellope",
         "origin": "Wreck-It Ralph",
         "groups": [
-            "Wreck-It Ralph",
-            "Fall Guys",
             "Fortnite",
-            "Disney Infinity"
+            "Wreck-It Ralph",
+            "Disney Infinity",
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
         "name": "Wreck-It Ralph",
         "origin": "Wreck-It Ralph",
         "groups": [
+            "Fortnite",
             "Wreck-It Ralph",
-            "Fall Guys",
             "Disney Infinity",
             "Disney Dreamlight Valley",
-            "Fortnite"
+            "Fall Guys",
+            "Disney Speedstorm"
         ]
     },
     {
@@ -28444,16 +29205,58 @@
         "name": "Laylee",
         "origin": "Yooka-Laylee",
         "groups": [
-            "Yooka-Laylee",
-            "Fall Guys"
+            "Dunk Dunk",
+            "Fall Guys",
+            "Yooka-Laylee"
         ]
     },
     {
         "name": "Yooka",
         "origin": "Yooka-Laylee",
         "groups": [
-            "Yooka-Laylee",
-            "Fall Guys"
+            "Dunk Dunk",
+            "Fall Guys",
+            "Yooka-Laylee"
+        ]
+    },
+    {
+        "name": "Hiei",
+        "origin": "Yu Yu Hakusho",
+        "groups": [
+            "Yu Yu Hakusho",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Toguro",
+        "origin": "Yu Yu Hakusho",
+        "groups": [
+            "Yu Yu Hakusho",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Yusuke",
+        "origin": "Yu Yu Hakusho",
+        "groups": [
+            "Yu Yu Hakusho",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Kaiba",
+        "origin": "Yu-Gi-Oh!",
+        "groups": [
+            "Yu-Gi-Oh!",
+            "Jump Force"
+        ]
+    },
+    {
+        "name": "Yugi",
+        "origin": "Yu-Gi-Oh!",
+        "groups": [
+            "Yu-Gi-Oh!",
+            "Jump Force"
         ]
     },
     {
@@ -28480,6 +29283,14 @@
         ]
     },
     {
+        "name": "Flash",
+        "origin": "Zootopia",
+        "groups": [
+            "Zootopia",
+            "Disney Speedstorm"
+        ]
+    },
+    {
         "name": "Gary De'Snake",
         "origin": "Zootopia",
         "groups": [
@@ -28497,18 +29308,20 @@
         "name": "Judy Hopps",
         "origin": "Zootopia",
         "groups": [
+            "Disney Infinity",
+            "Disney Speedstorm",
             "Wreck-It Ralph",
-            "Zootopia",
-            "Disney Infinity"
+            "Zootopia"
         ]
     },
     {
         "name": "Nick Wilde",
         "origin": "Zootopia",
         "groups": [
+            "Disney Infinity",
+            "Disney Speedstorm",
             "Wreck-It Ralph",
-            "Zootopia",
-            "Disney Infinity"
+            "Zootopia"
         ]
     }
 ]
