@@ -2212,7 +2212,8 @@
             "LEGO",
             "Ready Player One",
             "Beetlejuice",
-            "MultiVersus"
+            "MultiVersus",
+            "Fortnite"
         ]
     },
     {
@@ -2419,8 +2420,25 @@
         "name": "Asta",
         "origin": "Black Clover",
         "groups": [
+            "Jump Force",
             "Black Clover",
-            "Jump Force"
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Noelle",
+        "origin": "Black Clover",
+        "groups": [
+            "Black Clover",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Yuno",
+        "origin": "Black Clover",
+        "groups": [
+            "Black Clover",
+            "Fortnite"
         ]
     },
     {
@@ -8218,6 +8236,22 @@
         ]
     },
     {
+        "name": "HamiKuma",
+        "origin": "Halloween Horror Nights",
+        "groups": [
+            "Halloween Horror Nights",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Jack the Clown",
+        "origin": "Halloween Horror Nights",
+        "groups": [
+            "Halloween Horror Nights",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Laurie Strode",
         "origin": "Halloween",
         "groups": [
@@ -8383,6 +8417,30 @@
         "groups": [
             "Nickelodeon Super Brawl 4",
             "Harvey Beaks"
+        ]
+    },
+    {
+        "name": "Alastor",
+        "origin": "Hazbin Hotel",
+        "groups": [
+            "Hazbin Hotel",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Charlie",
+        "origin": "Hazbin Hotel",
+        "groups": [
+            "Hazbin Hotel",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Vagatha",
+        "origin": "Hazbin Hotel",
+        "groups": [
+            "Hazbin Hotel",
+            "Fortnite"
         ]
     },
     {
@@ -8639,6 +8697,14 @@
         "groups": [
             "Hey Arnold",
             "Nickelodeon All-Star Brawl 2"
+        ]
+    },
+    {
+        "name": "The Knight",
+        "origin": "Hollow Knight",
+        "groups": [
+            "Hollow Knight",
+            "Fortnite"
         ]
     },
     {
@@ -15256,6 +15322,21 @@
         ]
     },
     {
+        "name": "Bear",
+        "origin": "Obsession",
+        "groups": [
+            "Obsession"
+        ]
+    },
+    {
+        "name": "Nikki",
+        "origin": "Obsession",
+        "groups": [
+            "Obsession",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Alfyn",
         "origin": "Octopath Traveler",
         "groups": [
@@ -15336,6 +15417,14 @@
         ]
     },
     {
+        "name": "Buggy",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Hancock",
         "origin": "One Piece",
         "groups": [
@@ -15360,6 +15449,46 @@
         ]
     },
     {
+        "name": "Monkey D. Luffy",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Ms. All Sunday",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Nami",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Portgas D. Ace",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Roronoa Zoro",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Sabo",
         "origin": "One Piece",
         "groups": [
@@ -15371,8 +15500,25 @@
         "name": "Sanji",
         "origin": "One Piece",
         "groups": [
+            "Jump Force",
             "One Piece",
-            "Jump Force"
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Tony Tony Chopper",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Usopp",
+        "origin": "One Piece",
+        "groups": [
+            "One Piece",
+            "Fortnite"
         ]
     },
     {
@@ -20917,6 +21063,14 @@
         ]
     },
     {
+        "name": "Dek",
+        "origin": "Predator",
+        "groups": [
+            "Predator",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Predator",
         "origin": "Predator",
         "groups": [
@@ -22479,6 +22633,14 @@
             "Disney Dreamlight Valley",
             "Fall Guys",
             "Disney Speedstorm"
+        ]
+    },
+    {
+        "name": "Slender Man",
+        "origin": "Slender Man",
+        "groups": [
+            "Slender Man",
+            "Fortnite"
         ]
     },
     {
@@ -27438,6 +27600,14 @@
             "The Princess and the Frog",
             "Wreck-It Ralph",
             "Disney Dreamlight Valley"
+        ]
+    },
+    {
+        "name": "Lady Liberty",
+        "origin": "The Purge",
+        "groups": [
+            "The Purge",
+            "Fortnite"
         ]
     },
     {
