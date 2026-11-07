@@ -2580,6 +2580,14 @@
         ]
     },
     {
+        "name": "Lilith",
+        "origin": "Borderlands",
+        "groups": [
+            "Borderlands",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Lillith",
         "origin": "Borderlands",
         "groups": [
@@ -3701,6 +3709,14 @@
         "origin": "Cyberpunk 2077",
         "groups": [
             "Cyberpunk 2077",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Lucyna",
+        "origin": "Cyberpunk: Edgerunners",
+        "groups": [
+            "Cyberpunk: Edgerunners",
             "Fortnite"
         ]
     },
@@ -5757,6 +5773,14 @@
         ]
     },
     {
+        "name": "Cel",
+        "origin": "End of Abyss",
+        "groups": [
+            "End of Abyss",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "Bulletkin",
         "origin": "Enter the Gungeon",
         "groups": [
@@ -7269,18 +7293,50 @@
         ]
     },
     {
-        "name": "Glitchtrap",
-        "origin": "Five Nights at Freddys",
+        "name": "Bonnie",
+        "origin": "Five Nights at Freddy's",
         "groups": [
-            "Five Nights at Freddys",
+            "Five Nights at Freddy's",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Chica",
+        "origin": "Five Nights at Freddy's",
+        "groups": [
+            "Five Nights at Freddy's",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Foxy",
+        "origin": "Five Nights at Freddy's",
+        "groups": [
+            "Five Nights at Freddy's",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Freddy",
+        "origin": "Five Nights at Freddy's",
+        "groups": [
+            "Five Nights at Freddy's",
+            "Fortnite"
+        ]
+    },
+    {
+        "name": "Glitchtrap",
+        "origin": "Five Nights at Freddy's",
+        "groups": [
+            "Five Nights at Freddy's",
             "Dead By Daylight"
         ]
     },
     {
         "name": "William Afton",
-        "origin": "Five Nights at Freddys",
+        "origin": "Five Nights at Freddy's",
         "groups": [
-            "Five Nights at Freddys",
+            "Five Nights at Freddy's",
             "Dead By Daylight"
         ]
     },
@@ -9183,6 +9239,14 @@
         ]
     },
     {
+        "name": "Walter Irons",
+        "origin": "John Carpenter's Toxic Commando",
+        "groups": [
+            "John Carpenter's Toxic Commando",
+            "Fortnite"
+        ]
+    },
+    {
         "name": "John Wick",
         "origin": "John Wick",
         "groups": [
@@ -9420,7 +9484,8 @@
         "origin": "KINGDOM HEARTS",
         "groups": [
             "KINGDOM HEARTS",
-            "Super Smash Bros Ultimate"
+            "Super Smash Bros Ultimate",
+            "Fortnite"
         ]
     },
     {
@@ -9442,7 +9507,8 @@
         "origin": "KINGDOM HEARTS",
         "groups": [
             "KINGDOM HEARTS",
-            "Super Smash Bros Ultimate"
+            "Super Smash Bros Ultimate",
+            "Fortnite"
         ]
     },
     {
@@ -9450,7 +9516,8 @@
         "origin": "KINGDOM HEARTS",
         "groups": [
             "KINGDOM HEARTS",
-            "Super Smash Bros Ultimate"
+            "Super Smash Bros Ultimate",
+            "Fortnite"
         ]
     },
     {
@@ -9668,14 +9735,6 @@
         "origin": "Kernel Heart",
         "groups": [
             "Kernel Heart",
-            "Fortnite"
-        ]
-    },
-    {
-        "name": "Fernet",
-        "origin": "Kernel Hearts",
-        "groups": [
-            "Kernel Hearts",
             "Fortnite"
         ]
     },
@@ -16108,7 +16167,8 @@
         "origin": "Persona",
         "groups": [
             "Overwatch",
-            "Persona"
+            "Persona",
+            "Fortnite"
         ]
     },
     {
@@ -22105,6 +22165,14 @@
             "Mortal Kombat",
             "Fortnite",
             "Among Us"
+        ]
+    },
+    {
+        "name": "Hiroshi Jackson",
+        "origin": "Screamer",
+        "groups": [
+            "Screamer",
+            "Fortnite"
         ]
     },
     {
